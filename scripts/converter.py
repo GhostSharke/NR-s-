@@ -23,7 +23,9 @@ def parse_header(lines):
         l = lines[i]
         if l.lower() == 'sumário' or ITEM.match(l) or re.match(r'^\d+\.\s+[A-ZÁ-Ú]', l):
             break
-        if phase == 'title' and l and not re.match(r'^(Publicação|D\.O\.U|Portaria|Criad|\()', l):
+        if phase == 'title' and l and re.match(r'^(Entra em vigor|\()', l):
+            notes.append(l)
+        elif phase == 'title' and l and not re.match(r'^(Publicação|D\.O\.U|Portaria|Criad)', l):
             title_lines.append(l)
         elif l:
             phase = 'meta'

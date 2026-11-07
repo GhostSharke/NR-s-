@@ -29,23 +29,23 @@ Texto completo das Normas Regulamentadoras de Segurança e Saúde no Trabalho do
 | [NR-19](NR-19/NR-19.md) | EXPLOSIVOS | 22/12/22 | Disponível | [PDF](NR-19/pdf/nr-19-atualizada-2023.pdf) |
 | [NR-20](NR-20/NR-20.md) | SEGURANÇA E SAÚDE NO TRABALHO COM INFLAMÁVEIS E COMBUSTÍVEIS | 22/01/25 | Disponível | [PDF](NR-20/pdf/nr-20-atualizada-2025.pdf) |
 | [NR-21](NR-21/NR-21.md) | Trabalhos a Céu Aberto | 20/12/99 | Disponível | [PDF](NR-21/pdf/nr-21.pdf) |
-| NR-22 | Segurança e Saúde Ocupacional na Mineração | | Pendente | |
-| NR-23 | Proteção Contra Incêndios | | Pendente | |
-| NR-24 | Condições Sanitárias e de Conforto nos Locais de Trabalho | | Pendente | |
-| NR-25 | Resíduos Industriais | | Pendente | |
-| NR-26 | Sinalização de Segurança | | Pendente | |
+| [NR-22](NR-22/NR-22.md) | SEGURANÇA E SAÚDE OCUPACIONAL NA MINERAÇÃO | 13/02/26 | Disponível | [PDF](NR-22/pdf/nr-22-atualizada-2026.pdf) |
+| [NR-23](NR-23/NR-23.md) | PROTEÇÃO CONTRA INCÊNDIOS | 06/09/22 | Disponível | [PDF](NR-23/pdf/nr-23-atualizada-2022.pdf) |
+| [NR-24](NR-24/NR-24.md) | CONDIÇÕES SANITÁRIAS E DE CONFORTO NOS LOCAIS DE TRABALHO | 14/09/26 | Disponível | [PDF](NR-24/pdf/nr-24-atualizada-2022.pdf) |
+| [NR-25](NR-25/NR-25.md) | RESÍDUOS INDUSTRIAIS | 07/12/22 | Disponível | [PDF](NR-25/pdf/nr-25-atualizada-2022-1.pdf) |
+| [NR-26](NR-26/NR-26.md) | SINALIZAÇÃO DE SEGURANÇA | 06/09/22 | Disponível | [PDF](NR-26/pdf/nr-26-atualizada-2022.pdf) |
 | NR-27 | Registro Profissional do Técnico de Segurança do Trabalho | | Revogada | |
-| NR-28 | Fiscalização e Penalidades | | Pendente | |
-| NR-29 | Segurança e Saúde no Trabalho Portuário | | Pendente | |
+| [NR-28](NR-28/NR-28.md) | FISCALIZAÇÃO E PENALIDADES | 30/09/26 | Disponível | [PDF](NR-28/pdf/nr-28-atualizada-2026.pdf) |
+| [NR-29](NR-29/NR-29.md) | SEGURANÇA E SAÚDE NO TRABALHO PORTUÁRIO | 22/12/22 | Disponível | [PDF](NR-29/pdf/nr-29-atualizada-2023.pdf) |
 | NR-30 | Segurança e Saúde no Trabalho Aquaviário | | Pendente | |
-| NR-31 | SST na Agricultura, Pecuária, Silvicultura, Exploração Florestal e Aquicultura | | Pendente | |
-| NR-32 | SST em Serviços de Saúde | | Pendente | |
-| NR-33 | SST nos Espaços Confinados | | Pendente | |
-| NR-34 | Condições e Meio Ambiente de Trabalho na Indústria da Construção, Reparação e Desmonte Naval | | Pendente | |
-| NR-35 | Trabalho em Altura | | Pendente | |
-| NR-36 | SST em Empresas de Abate e Processamento de Carnes e Derivados | | Pendente | |
-| NR-37 | SST em Plataformas de Petróleo | | Pendente | |
-| NR-38 | SST nas Atividades de Limpeza Urbana e Manejo de Resíduos Sólidos | | Pendente | |
+| [NR-31](NR-31/NR-31.md) | SEGURANÇA E SAÚDE NO TRABALHO NA AGRICULTURA, PECUÁRIA, SILVICULTURA, EXPLORAÇÃO FLORESTAL E AQUICULTURA | 22/03/24 | Disponível | [PDF](NR-31/pdf/nr-31-atualizada-2024-2.pdf) |
+| [NR-32](NR-32/NR-32.md) | SEGURANÇA E SAÚDE NO TRABALHO EM SERVIÇOS DE SAÚDE | 22/12/22 | Disponível | [PDF](NR-32/pdf/nr-32-atualizada-2023-1.pdf) |
+| [NR-33](NR-33/NR-33.md) | SEGURANÇA E SAÚDE NOS TRABALHOS EM ESPAÇOS CONFINADOS | 24/06/22 | Disponível | [PDF](NR-33/pdf/nr-33-atualizada-2022-_retificada.pdf) |
+| [NR-34](NR-34/NR-34.md) | CONDIÇÕES E MEIO AMBIENTE DE TRABALHO NA INDÚSTRIA DA CONSTRUÇÃO, REPARAÇÃO E DESMONTE NAVAL | 22/12/22 | Disponível | [PDF](NR-34/pdf/nr-34-atualizada-2023-2.pdf) |
+| [NR-35](NR-35/NR-35.md) | TRABALHO EM ALTURA | 16/07/26 | Disponível | [PDF](NR-35/pdf/nr-35-atualizada-2025-1.pdf) |
+| [NR-36](NR-36/NR-36.md) | SEGURANÇA E SAÚDE NO TRABALHO NAS ORGANIZAÇÕES DE ABATE E PROCESSAMENTO DE CARNES E DERIVADOS | 02/07/24 | Disponível | [PDF](NR-36/pdf/nr-36-atualizada-2024-1.pdf) |
+| [NR-37](NR-37/NR-37.md) | SEGURANÇA E SAÚDE EM PLATAFORMAS DE PETRÓLEO | 22/12/22 | Disponível | [PDF](NR-37/pdf/nr-37-atualizada-2023.pdf) |
+| [NR-38](NR-38/NR-38.md) | SEGURANÇA E SAÚDE NO TRABALHO NAS ATIVIDADES DE LIMPEZA URBANA E MANEJO DE RESÍDUOS SÓLIDOS | 11/05/26 | Disponível | [PDF](NR-38/pdf/nr38atualizada2026.pdf) |
 
 ## Estrutura
 
@@ -61,6 +61,8 @@ scripts/
 
 - **NR-10:** o PDF incluído traz o texto dado pela Portaria MTE nº 737/2026, com vigência a partir de 01/06/2027. Até essa data, vale a redação anterior.
 - **NR-11:** só o Anexo I (rochas ornamentais) foi incluído. O texto principal ainda precisa ser adicionado.
+- **NR-30:** ainda não incluída.
+- **NR-33:** o PDF é a versão retificada da Portaria MTP nº 1.690/2022, em vigor desde 03/10/2022.
 - **Tabelas e quadros:** páginas com tabelas foram mantidas como texto pré-formatado, preservando as colunas do PDF. Quadros complexos e figuras devem ser conferidos no PDF original.
 
 ## Como adicionar ou atualizar uma NR
