@@ -3,7 +3,7 @@ import re, sys, os, json, unicodedata
 ITEM = re.compile(r'^(\d{1,2}(?:\.\d+)+)\.?\s+\S')
 ALINEA = re.compile(r'^([a-z]{1,2}|[ivx]+)\)\s')
 INCISO = re.compile(r'^[IVXL]+\s*[-–—]\s')
-STARTERS = re.compile(r'^(ANEXO|Anexo\b|QUADRO|Quadro\b|TABELA|Tabela\b|GLOSSÁRIO|Glossário|Nota|NOTA|Parágrafo|Observaç|OBS|CAPÍTULO|Capítulo|SEÇÃO|Seção|APÊNDICE|Apêndice|\(Redação|\(Incluíd|\(Alterad|\(Revogad|\(Inserid|\(Vide)')
+STARTERS = re.compile(r'^([A-Z]\.\d+(?:\.\d+)*\s*[-–]\s|ANEXO|Anexo\b|QUADRO|Quadro\b|TABELA|Tabela\b|GLOSSÁRIO|Glossário|Nota|NOTA|Parágrafo|Observaç|OBS|CAPÍTULO|Capítulo|SEÇÃO|Seção|APÊNDICE|Apêndice|\(Redação|\(Incluíd|\(Alterad|\(Revogad|\(Inserid|\(Vide)')
 FOOTER = re.compile(r'^Este texto não substitui o publicado no D\.?O\.?U\.?$')
 DATE = re.compile(r'^\d{2}/\d{2}/\d{2,4}$')
 
@@ -162,10 +162,20 @@ def convert(txt_path, nr, pdf_name, label=None):
     pages = raw.split('\f')
     lines, pg = [], []
     for n, ptxt in enumerate(pages):
-        for x in ptxt.split('\n'):
-            lines.append(norm(x)); pg.append(n)
+        pl = [norm(x) for x in ptxt.split('\n')]
+        nzp = [k for k, l in enumerate(pl) if l and not FOOTER.match(l)]
+        if nzp and pl[nzp[-1]] == str(n + 1):
+            pl[nzp[-1]] = ''
+        for x in pl:
+            lines.append(x); pg.append(n)
     while lines and not lines[0]:
         lines.pop(0); pg.pop(0)
+    nz = [k for k, l in enumerate(lines) if l]
+    cand = [nz[j] for j in range(1, len(nz)) if re.fullmatch(r'\d{1,3}', lines[nz[j]]) and FOOTER.match(lines[nz[j - 1]])]
+    vals = [int(lines[k]) for k in cand]
+    if vals and all(b > a for a, b in zip(vals, vals[1:])):
+        for k in cand:
+            lines[k] = ''
     title, portarias, dates, notes, i = parse_header(lines)
     i = strip_sumario(lines, i)
     first_page = pg[i] if i < len(pg) else 0

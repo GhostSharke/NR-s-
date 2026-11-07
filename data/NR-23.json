@@ -1,0 +1,329 @@
+{
+ "versao_esquema": 1,
+ "gerado_em": "2026-11-07",
+ "nr": 23,
+ "id": "NR-23",
+ "titulo": "PROTEÇÃO CONTRA INCÊNDIOS",
+ "titulo_original": "NR 23 - PROTEÇÃO CONTRA INCÊNDIOS",
+ "arquivo_md": "NR-23/NR-23.md",
+ "pdf": "NR-23/pdf/nr-23-atualizada-2022.pdf",
+ "publicacao_e_alteracoes": [
+  {
+   "ato": "Portaria MTb n.º 3.214, de 08 de junho de 1978",
+   "dou": "06/07/78"
+  },
+  {
+   "ato": "Portaria SNT nº 06, de 29 de outubro de 1991",
+   "dou": "31/10/91"
+  },
+  {
+   "ato": "Portaria SNT nº 02, de 21 de janeiro de 1992",
+   "dou": "22/01/92"
+  },
+  {
+   "ato": "Portaria SIT nº 24, de 09 de outubro de 2001",
+   "dou": "01/11/01"
+  },
+  {
+   "ato": "Portaria SIT nº 221, de 06 de maio de 2011",
+   "dou": "10/05/11"
+  },
+  {
+   "ato": "Portaria MTP nº 2.769, de 05 de setembro de 2022",
+   "dou": "06/09/22"
+  }
+ ],
+ "ultima_alteracao_dou": "06/09/22",
+ "notas": [
+  "(Redação dada pela Portaria MTP nº 2.769, de 05 de setembro de 2022)"
+ ],
+ "anexos": [],
+ "totais": {
+  "titulo": 3,
+  "item": 9,
+  "alinea": 3,
+  "inciso": 0,
+  "texto": 0,
+  "tabela": 0,
+  "anexo": 0
+ },
+ "revogados": 0,
+ "itens": [
+  {
+   "id": "NR-23/23.1",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "titulo",
+   "numero": "23.1",
+   "nivel": 1,
+   "pai": null,
+   "secao": "23.1 Objetivo",
+   "ordem": 1,
+   "texto": "23.1 Objetivo",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": [
+    "NR-23/23.1.1"
+   ]
+  },
+  {
+   "id": "NR-23/23.1.1",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.1.1",
+   "nivel": 2,
+   "pai": "NR-23/23.1",
+   "secao": "23.1 Objetivo",
+   "ordem": 2,
+   "texto": "23.1.1 Esta Norma Regulamentadora - NR estabelece medidas de prevenção contra incêndios nos ambientes de trabalho.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.2",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "titulo",
+   "numero": "23.2",
+   "nivel": 1,
+   "pai": null,
+   "secao": "23.2 Campo de aplicação",
+   "ordem": 3,
+   "texto": "23.2 Campo de aplicação",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": [
+    "NR-23/23.2.1"
+   ]
+  },
+  {
+   "id": "NR-23/23.2.1",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.2.1",
+   "nivel": 2,
+   "pai": "NR-23/23.2",
+   "secao": "23.2 Campo de aplicação",
+   "ordem": 4,
+   "texto": "23.2.1 As medidas de prevenção estabelecidas nesta NR se aplicam aos estabelecimentos e locais de trabalho.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "titulo",
+   "numero": "23.3",
+   "nivel": 1,
+   "pai": null,
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 5,
+   "texto": "23.3 Medidas de prevenção contra incêndios",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": [
+    "NR-23/23.3.1",
+    "NR-23/23.3.2",
+    "NR-23/23.3.3",
+    "NR-23/23.3.4",
+    "NR-23/23.3.5"
+   ]
+  },
+  {
+   "id": "NR-23/23.3.1",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.1",
+   "nivel": 2,
+   "pai": "NR-23/23.3",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 6,
+   "texto": "23.3.1 Toda organização deve adotar medidas de prevenção contra incêndios em conformidade com a legislação estadual e, quando aplicável, de forma complementar, com as normas técnicas oficiais.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3.2",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.2",
+   "nivel": 2,
+   "pai": "NR-23/23.3",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 7,
+   "texto": "23.3.2 A organização deve providenciar para todos os trabalhadores informações sobre:",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": [
+    "NR-23/23.3.2.a)",
+    "NR-23/23.3.2.b)",
+    "NR-23/23.3.2.c)"
+   ]
+  },
+  {
+   "id": "NR-23/23.3.2.a)",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "alinea",
+   "numero": "23.3.2.a)",
+   "nivel": null,
+   "pai": "NR-23/23.3.2",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 8,
+   "texto": "a) utilização dos equipamentos de combate ao incêndio;",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "letra": "a",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3.2.b)",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "alinea",
+   "numero": "23.3.2.b)",
+   "nivel": null,
+   "pai": "NR-23/23.3.2",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 9,
+   "texto": "b) procedimentos de resposta aos cenários de emergências e para evacuação dos locais de trabalho com segurança; e",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "letra": "b",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3.2.c)",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "alinea",
+   "numero": "23.3.2.c)",
+   "nivel": null,
+   "pai": "NR-23/23.3.2",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 10,
+   "texto": "c) dispositivos de alarme existentes.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "letra": "c",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3.3",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.3",
+   "nivel": 2,
+   "pai": "NR-23/23.3",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 11,
+   "texto": "23.3.3 Os locais de trabalho devem dispor de saídas em número suficiente e dispostas de modo que aqueles que se encontrem nesses locais possam abandoná-los com rapidez e segurança em caso de emergência.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3.4",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.4",
+   "nivel": 2,
+   "pai": "NR-23/23.3",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 12,
+   "texto": "23.3.4 As aberturas, saídas e vias de passagem de emergência devem ser identificadas e sinalizadas de acordo com a legislação estadual e, quando aplicável, de forma complementar, com as normas técnicas oficiais, indicando a direção da saída.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": [
+    "NR-23/23.3.4.1"
+   ]
+  },
+  {
+   "id": "NR-23/23.3.4.1",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.4.1",
+   "nivel": 3,
+   "pai": "NR-23/23.3.4",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 13,
+   "texto": "23.3.4.1 As aberturas, saídas e vias de passagem devem ser mantidas desobstruídas.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": []
+  },
+  {
+   "id": "NR-23/23.3.5",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.5",
+   "nivel": 2,
+   "pai": "NR-23/23.3",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 14,
+   "texto": "23.3.5 Nenhuma saída de emergência deve ser fechada à chave ou presa durante a jornada de trabalho.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": [
+    "NR-23/23.3.5.1"
+   ]
+  },
+  {
+   "id": "NR-23/23.3.5.1",
+   "nr": 23,
+   "anexo": null,
+   "tipo": "item",
+   "numero": "23.3.5.1",
+   "nivel": 3,
+   "pai": "NR-23/23.3.5",
+   "secao": "23.3 Medidas de prevenção contra incêndios",
+   "ordem": 15,
+   "texto": "23.3.5.1 As saídas de emergência podem ser equipadas com dispositivos de travamento que permitam fácil abertura do interior do estabelecimento.",
+   "texto_original": null,
+   "alteracoes": [],
+   "portarias_citadas": [],
+   "status": "vigente",
+   "filhos": []
+  }
+ ]
+}

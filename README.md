@@ -53,15 +53,67 @@ Texto completo das Normas Regulamentadoras de Segurança e Saúde no Trabalho do
 NR-XX/
 ├── NR-XX.md     texto completo, com tabela de publicação e alterações
 └── pdf/         PDF oficial usado na conversão
+data/            JSON estruturado (ver abaixo)
 scripts/
-└── converter.py conversor PDF → Markdown
+├── converter.py conversor PDF → Markdown
+└── gerar_json.py gera data/ a partir dos Markdown
 ```
+
+## Dados estruturados (JSON)
+
+A pasta `data/` traz o conteúdo das NRs em JSON, pronto para uso em software (geração de documentos, checklists, análises de conformidade):
+
+| Arquivo | Conteúdo |
+|---|---|
+| `data/indice.json` | Lista das NRs com título, última alteração, anexos e totais por tipo |
+| `data/NR-XX.json` | Uma NR completa: metadados + todos os registros em `itens` |
+| `data/itens.jsonl` | Todos os registros de todas as NRs, um por linha (para carga em banco) |
+
+Cada registro de `itens`:
+
+```json
+{
+  "id": "NR-35/35.2.1",
+  "nr": 35,
+  "anexo": null,
+  "tipo": "item",
+  "numero": "35.2.1",
+  "nivel": 2,
+  "pai": "NR-35/35.2",
+  "secao": "35.2 Campo de Aplicação",
+  "ordem": 4,
+  "texto": "35.2.1 Aplica-se o disposto nessa Norma a toda atividade com diferença de nível acima de 2,0m (dois metros) do nível inferior, onde haja risco de queda.",
+  "texto_original": null,
+  "alteracoes": [],
+  "portarias_citadas": [],
+  "status": "vigente",
+  "filhos": []
+}
+```
+
+| Campo | Descrição |
+|---|---|
+| `id` | Identificador único: `NR-XX/[ANEXO-Y/]numero`. Itens sem número usam `tipo-ordem` |
+| `tipo` | `titulo`, `item`, `alinea`, `inciso`, `texto`, `tabela` ou `anexo` |
+| `numero` | Numeração da norma (`35.2.1`, `35.2.1.a)`, `A.2`) |
+| `nivel` | Profundidade do item (`35.2` = 1, `35.2.1` = 2) |
+| `pai` / `filhos` | Hierarquia entre registros |
+| `anexo` | Anexo a que o registro pertence (`ANEXO-I`, `ANEXO-3`...) ou `null` |
+| `secao` | Título da seção em que o registro está |
+| `ordem` | Posição no texto da norma |
+| `texto` | Texto sem as notas de alteração entre parênteses |
+| `texto_original` | Texto com as notas, quando havia notas |
+| `alteracoes` | Notas de redação, inclusão, revogação e vigência |
+| `portarias_citadas` | Portarias citadas nas notas (`MTE 1.259`) |
+| `status` | `vigente` ou `revogado` |
+
+Tabelas vêm como texto pré-formatado (`tipo: tabela`). Para regenerar: `python3 scripts/gerar_json.py .`
 
 ## Atenção
 
 - **NR-10:** o PDF incluído traz o texto dado pela Portaria MTE nº 737/2026, com vigência a partir de 01/06/2027. Até essa data, vale a redação anterior.
 - **NR-33:** o PDF é a versão retificada da Portaria MTP nº 1.690/2022, em vigor desde 03/10/2022.
-- **Tabelas e quadros:** páginas com tabelas foram mantidas como texto pré-formatado, preservando as colunas do PDF. Quadros complexos e figuras devem ser conferidos no PDF original.
+- **Tabelas e quadros:** páginas com tabelas foram mantidas como texto pré-formatado, preservando as colunas do PDF. Tabelas pequenas no meio do texto (ex.: quadros do Anexo I da NR-16) podem ter as colunas mescladas; confira no PDF original.
 
 ## Como adicionar ou atualizar uma NR
 
