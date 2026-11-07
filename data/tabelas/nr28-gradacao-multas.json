@@ -1,0 +1,916 @@
+{
+ "versao_esquema": 1,
+ "gerado_em": "2026-11-07",
+ "fonte": {
+  "nr": 28,
+  "pdf": "NR-28/pdf/nr-28-atualizada-2026.pdf"
+ },
+ "anexo_I": {
+  "titulo": "Gradação de multas",
+  "unidade": "BTN",
+  "valores": [
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 1,
+    "minimo": 630,
+    "maximo": 729
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 2,
+    "minimo": 1129,
+    "maximo": 1393
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 3,
+    "minimo": 1691,
+    "maximo": 2091
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 4,
+    "minimo": 2252,
+    "maximo": 2792
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 1,
+    "minimo": 378,
+    "maximo": 428
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 2,
+    "minimo": 676,
+    "maximo": 839
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 3,
+    "minimo": 1015,
+    "maximo": 1254
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 4,
+    "minimo": 1350,
+    "maximo": 1680
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 1,
+    "minimo": 730,
+    "maximo": 830
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 2,
+    "minimo": 1394,
+    "maximo": 1664
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 3,
+    "minimo": 2092,
+    "maximo": 2495
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 4,
+    "minimo": 2793,
+    "maximo": 3334
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 1,
+    "minimo": 429,
+    "maximo": 498
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 2,
+    "minimo": 840,
+    "maximo": 1002
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 3,
+    "minimo": 1255,
+    "maximo": 1500
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 4,
+    "minimo": 1681,
+    "maximo": 1998
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 1,
+    "minimo": 831,
+    "maximo": 936
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 2,
+    "minimo": 1665,
+    "maximo": 1935
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 3,
+    "minimo": 2496,
+    "maximo": 2898
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 4,
+    "minimo": 3335,
+    "maximo": 3876
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 1,
+    "minimo": 499,
+    "maximo": 580
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 2,
+    "minimo": 1003,
+    "maximo": 1166
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 3,
+    "minimo": 1501,
+    "maximo": 1746
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 4,
+    "minimo": 1999,
+    "maximo": 2320
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 1,
+    "minimo": 964,
+    "maximo": 1104
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 2,
+    "minimo": 1936,
+    "maximo": 2200
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 3,
+    "minimo": 2899,
+    "maximo": 3302
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 4,
+    "minimo": 3877,
+    "maximo": 4418
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 1,
+    "minimo": 581,
+    "maximo": 662
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 2,
+    "minimo": 1167,
+    "maximo": 1324
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 3,
+    "minimo": 1747,
+    "maximo": 1986
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 4,
+    "minimo": 2321,
+    "maximo": 2648
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 1,
+    "minimo": 1105,
+    "maximo": 1241
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 2,
+    "minimo": 2201,
+    "maximo": 2471
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 3,
+    "minimo": 3303,
+    "maximo": 3718
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 4,
+    "minimo": 4419,
+    "maximo": 4948
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 1,
+    "minimo": 663,
+    "maximo": 744
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 2,
+    "minimo": 1325,
+    "maximo": 1482
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 3,
+    "minimo": 1987,
+    "maximo": 2225
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 4,
+    "minimo": 2649,
+    "maximo": 2976
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 1,
+    "minimo": 1242,
+    "maximo": 1374
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 2,
+    "minimo": 2472,
+    "maximo": 2748
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 3,
+    "minimo": 3719,
+    "maximo": 4121
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 4,
+    "minimo": 4949,
+    "maximo": 5490
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 1,
+    "minimo": 745,
+    "maximo": 826
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 2,
+    "minimo": 1483,
+    "maximo": 1646
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 3,
+    "minimo": 2226,
+    "maximo": 2471
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 4,
+    "minimo": 2977,
+    "maximo": 3297
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 1,
+    "minimo": 1375,
+    "maximo": 1507
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 2,
+    "minimo": 2749,
+    "maximo": 3020
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 3,
+    "minimo": 4122,
+    "maximo": 4525
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 4,
+    "minimo": 5491,
+    "maximo": 6033
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 1,
+    "minimo": 827,
+    "maximo": 906
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 2,
+    "minimo": 1647,
+    "maximo": 1810
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 3,
+    "minimo": 2472,
+    "maximo": 2717
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 4,
+    "minimo": 3298,
+    "maximo": 3618
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 1,
+    "minimo": 1508,
+    "maximo": 1646
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 2,
+    "minimo": 3021,
+    "maximo": 3284
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 3,
+    "minimo": 4526,
+    "maximo": 4929
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 4,
+    "minimo": 6034,
+    "maximo": 6304
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 1,
+    "minimo": 907,
+    "maximo": 990
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 2,
+    "minimo": 1811,
+    "maximo": 1973
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 3,
+    "minimo": 2718,
+    "maximo": 2957
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 4,
+    "minimo": 3619,
+    "maximo": 3782
+   }
+  ]
+ },
+ "anexo_IA": {
+  "titulo": "Valor das multas específicas de trabalho portuário (NR-29)",
+  "unidade": "R$",
+  "valores": [
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 1,
+    "minimo": 575.0,
+    "maximo": 665.36
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 2,
+    "minimo": 1030.44,
+    "maximo": 1271.39
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 3,
+    "minimo": 1543.38,
+    "maximo": 1908.46
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "01-10",
+    "infracao": 4,
+    "minimo": 2055.4,
+    "maximo": 2548.27
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 1,
+    "minimo": 666.27,
+    "maximo": 757.54
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 2,
+    "minimo": 1272.31,
+    "maximo": 1518.73
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 3,
+    "minimo": 1909.38,
+    "maximo": 2277.19
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "11-25",
+    "infracao": 4,
+    "minimo": 2549.18,
+    "maximo": 3042.95
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 1,
+    "minimo": 758.46,
+    "maximo": 878.93
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 2,
+    "minimo": 1519.65,
+    "maximo": 1766.08
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 3,
+    "minimo": 2278.1,
+    "maximo": 2645.01
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "26-50",
+    "infracao": 4,
+    "minimo": 3043.86,
+    "maximo": 3537.63
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 1,
+    "minimo": 879.84,
+    "maximo": 1007.63
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 2,
+    "minimo": 1766.99,
+    "maximo": 2007.95
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 3,
+    "minimo": 2645.93,
+    "maximo": 3013.75
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "51-100",
+    "infracao": 4,
+    "minimo": 3538.55,
+    "maximo": 4032.32
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 1,
+    "minimo": 1008.54,
+    "maximo": 1132.67
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 2,
+    "minimo": 2008.85,
+    "maximo": 2255.29
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 3,
+    "minimo": 3014.65,
+    "maximo": 3393.42
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "101-250",
+    "infracao": 4,
+    "minimo": 4033.23,
+    "maximo": 4516.05
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 1,
+    "minimo": 1133.57,
+    "maximo": 1254.05
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 2,
+    "minimo": 2256.2,
+    "maximo": 2508.11
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 3,
+    "minimo": 3394.34,
+    "maximo": 3761.25
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "251-500",
+    "infracao": 4,
+    "minimo": 4516.96,
+    "maximo": 5010.74
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 1,
+    "minimo": 1254.97,
+    "maximo": 1375.44
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 2,
+    "minimo": 2509.02,
+    "maximo": 2756.36
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 3,
+    "minimo": 3762.16,
+    "maximo": 4129.98
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "501-1000",
+    "infracao": 4,
+    "minimo": 5011.65,
+    "maximo": 5506.34
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 1,
+    "minimo": 1376.35,
+    "maximo": 1502.31
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 2,
+    "minimo": 2757.28,
+    "maximo": 2997.31
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 3,
+    "minimo": 4130.89,
+    "maximo": 4498.71
+   },
+   {
+    "tipo": "S",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 4,
+    "minimo": 5507.25,
+    "maximo": 5750.0
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 1,
+    "minimo": 345.0,
+    "maximo": 390.63
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 2,
+    "minimo": 616.98,
+    "maximo": 765.75
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 3,
+    "minimo": 926.39,
+    "maximo": 1144.52
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "01-10",
+    "infracao": 4,
+    "minimo": 1232.15,
+    "maximo": 1533.33
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 1,
+    "minimo": 391.55,
+    "maximo": 454.52
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 2,
+    "minimo": 766.66,
+    "maximo": 914.52
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 3,
+    "minimo": 1145.44,
+    "maximo": 1369.05
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "11-25",
+    "infracao": 4,
+    "minimo": 1534.24,
+    "maximo": 1823.57
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 1,
+    "minimo": 455.44,
+    "maximo": 529.37
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 2,
+    "minimo": 915.43,
+    "maximo": 1064.21
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 3,
+    "minimo": 1369.96,
+    "maximo": 1593.57
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "26-50",
+    "infracao": 4,
+    "minimo": 1824.49,
+    "maximo": 2117.46
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 1,
+    "minimo": 530.28,
+    "maximo": 604.2
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 2,
+    "minimo": 1065.11,
+    "maximo": 1208.41
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 3,
+    "minimo": 1594.48,
+    "maximo": 1812.62
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "51-100",
+    "infracao": 4,
+    "minimo": 2118.38,
+    "maximo": 2416.83
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 1,
+    "minimo": 605.12,
+    "maximo": 679.05
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 2,
+    "minimo": 1209.32,
+    "maximo": 1355.36
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 3,
+    "minimo": 1813.53,
+    "maximo": 2030.75
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "101-250",
+    "infracao": 4,
+    "minimo": 2417.74,
+    "maximo": 2716.19
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 1,
+    "minimo": 679.96,
+    "maximo": 753.89
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 2,
+    "minimo": 1353.53,
+    "maximo": 1502.3
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 3,
+    "minimo": 2031.67,
+    "maximo": 2255.28
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "251-500",
+    "infracao": 4,
+    "minimo": 2717.11,
+    "maximo": 3009.17
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 1,
+    "minimo": 754.8,
+    "maximo": 826.9
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 2,
+    "minimo": 1503.21,
+    "maximo": 1651.98
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 3,
+    "minimo": 2256.19,
+    "maximo": 2479.8
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "501-1000",
+    "infracao": 4,
+    "minimo": 3010.08,
+    "maximo": 3302.14
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 1,
+    "minimo": 827.82,
+    "maximo": 903.57
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 2,
+    "minimo": 1652.9,
+    "maximo": 1800.75
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 3,
+    "minimo": 2480.71,
+    "maximo": 2698.84
+   },
+   {
+    "tipo": "M",
+    "faixa_empregados": "Mais de 1000",
+    "infracao": 4,
+    "minimo": 3303.06,
+    "maximo": 3450.0
+   }
+  ]
+ }
+}

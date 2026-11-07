@@ -21,7 +21,7 @@ def parse_header(lines):
     phase = 'title'
     while i < len(lines):
         l = lines[i]
-        if l.lower() == 'sumário' or ITEM.match(l) or re.match(r'^\d+\.\s+[A-ZÁ-Ú]', l):
+        if l.lower().rstrip(':') == 'sumário' or ITEM.match(l) or re.match(r'^\d+\.\s+[A-ZÁ-Ú]', l):
             break
         if phase == 'title' and l and re.match(r'^(Entra em vigor|\()', l):
             notes.append(l)
@@ -50,7 +50,7 @@ def parse_header(lines):
     return title, portarias, dates, merged, i
 
 def strip_sumario(lines, i):
-    if i < len(lines) and lines[i].lower() == 'sumário':
+    if i < len(lines) and lines[i].lower().rstrip(':') == 'sumário':
         i += 1
         j = i
         while j < len(lines) and not lines[j]:
@@ -76,15 +76,25 @@ def is_heading(l):
     depth = m.group(1).count('.')
     return 2 if depth == 1 else (3 if depth == 2 else 4)
 
-def starts_block(l):
+ANEXO_LINHA = re.compile(r'^ANEXO\s+(N[º°.]*\s*)?([IVXL]+|\d+(-[A-Z])?|[“"]?[A-Z][”"]?)?(\s+(da|DA)\s+NR[\s-]*\d+)?(\s*[-–]\s*[^a-z]*)?\s*$')
+
+MIXED = re.compile(r'^(Anexo|Quadro|Tabela|Glossário|Nota|Parágrafo|Observaç|OBS|Capítulo|Seção|Apêndice)\b')
+
+def starts_block(l, cur=None):
+    if MIXED.match(l) and cur and not cur.rstrip().endswith(('.', ';', ':', ')', '”', '"')):
+        return False
+    if re.match(r'^\d{1,2}\.\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ]', l) and cur and cur.rstrip().endswith(('.', ';', ':')):
+        return True
     return bool(ITEM.match(l) or ALINEA.match(l) or INCISO.match(l) or STARTERS.match(l) or l.startswith('•'))
 
 def body_to_md(lines):
     paras = []
     cur = None
     pending_blank = False
+    anexo_titulo = False
     for l in lines:
         if l.startswith('\x00TABLE'):
+            anexo_titulo = False
             if cur is not None:
                 paras.append(cur)
                 cur = None
@@ -96,7 +106,25 @@ def body_to_md(lines):
             continue
         if FOOTER.match(l):
             continue
-        new = cur is None or starts_block(l)
+        if cur is not None and anexo_titulo:
+            letras = [c for c in l if c.isalpha()]
+            if letras and all(c.isupper() for c in letras) and not ITEM.match(l) and not ANEXO_LINHA.match(l):
+                cur = cur + ' ' + l
+                pending_blank = False
+                continue
+            anexo_titulo = False
+            paras.append(cur)
+            cur = l
+            pending_blank = False
+            continue
+        if ANEXO_LINHA.match(l):
+            if cur is not None:
+                paras.append(cur)
+            cur = l
+            anexo_titulo = True
+            pending_blank = False
+            continue
+        new = cur is None or starts_block(l, cur)
         if not new and pending_blank:
             prev = cur.rstrip()
             if prev.endswith(('.', ';', ':')) and not l[:1].islower():
@@ -122,6 +150,8 @@ def body_to_md(lines):
         if h:
             out.append('#' * h + ' ' + p)
         elif re.match(r'^\d{1,2}\.\s+[A-ZÁ-Ú]', p) and len(p) < 90 and not p.endswith(('.', ';', ':')):
+            out.append('## ' + p)
+        elif re.match(r'^ANEXO\b', p) and not re.search(r'[a-z]', re.sub(r'\b(da|de|do|das|dos|e)\b', '', re.sub(r'NR-\d+', '', p))):
             out.append('## ' + p)
         elif re.match(r'^(ANEXO|Anexo)\b', p) and len(p) < 160:
             out.append('## ' + p)
@@ -185,6 +215,10 @@ def convert(txt_path, nr, pdf_name, label=None):
         if n > first_page and n < len(lay) and table_page([norm(x) for x in pages[n].split('\n')]):
             if n not in seen:
                 seen.add(n)
+                for x in pages[n].split('\n'):
+                    x = norm(x)
+                    if ANEXO_LINHA.match(x):
+                        body_lines.append(x)
                 TABLES.append(layout_block(lay[n]))
                 body_lines.append('\x00TABLE' + str(len(TABLES) - 1))
             continue

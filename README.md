@@ -54,9 +54,12 @@ NR-XX/
 ├── NR-XX.md     texto completo, com tabela de publicação e alterações
 └── pdf/         PDF oficial usado na conversão
 data/            JSON estruturado (ver abaixo)
+└── tabelas/     quadros da NR-28 e NR-15 como dados
 scripts/
 ├── converter.py conversor PDF → Markdown
-└── gerar_json.py gera data/ a partir dos Markdown
+├── gerar_json.py gera data/ a partir dos Markdown
+├── tabelas_nr28.py infrações e gradação de multas
+└── tabelas_nr15.py limites de tolerância
 ```
 
 ## Dados estruturados (JSON)
@@ -107,7 +110,45 @@ Cada registro de `itens`:
 | `portarias_citadas` | Portarias citadas nas notas (`MTE 1.259`) |
 | `status` | `vigente` ou `revogado` |
 
-Tabelas vêm como texto pré-formatado (`tipo: tabela`). Para regenerar: `python3 scripts/gerar_json.py .`
+Tabelas vêm como texto pré-formatado (`tipo: tabela`); os quadros mais usados estão estruturados em `data/tabelas/`. Para regenerar: `python3 scripts/gerar_json.py .`
+
+## Tabelas estruturadas
+
+A pasta `data/tabelas/` traz quadros das NRs convertidos em dados:
+
+| Arquivo | Conteúdo |
+|---|---|
+| `nr28-infracoes.json` | Anexo II da NR-28: 5.759 infrações com código, NR, anexo, item, gradação (1 a 4) e tipo (S = segurança, M = medicina), ligadas aos itens das NRs em `itens_relacionados` |
+| `nr28-gradacao-multas.json` | Anexo I (gradação em BTN) e Anexo IA (valores em R$ para trabalho portuário) por faixa de empregados |
+| `nr15-limites-tolerancia.json` | NR-15: ruído (Anexo 1), calor (Anexo 3, Quadros 1 e 2) e agentes químicos (Anexo 11, Quadros 1 e 2) |
+
+Exemplo de infração:
+
+```json
+{
+  "codigo": "101138-3",
+  "nr": 1,
+  "anexo": null,
+  "item": "1.5.3.2, alínea \"a\",",
+  "referencias": [
+    "1.5.3.2.a)"
+  ],
+  "itens_relacionados": [
+    "NR-01/1.5.3.2.a)"
+  ],
+  "infracao": 3,
+  "tipo": "S",
+  "tipo_descricao": "Segurança do Trabalho",
+  "nota": null
+}
+```
+
+Notas:
+- As infrações da NR-31 não têm gradação nem tipo no quadro: são sancionadas pelo critério do art. 18 da Lei nº 5.889/1973 (item 28.3.2).
+- As infrações da NR-10 se referem à redação em vigor; parte delas não se liga a itens porque o texto da NR-10 neste repositório é o novo (vigência em 01/06/2027).
+- No Anexo 11 da NR-15, `status` indica `vigente`, `remissivo` (entrada "vide" que aponta para outro agente) ou `excluido`.
+
+Para regenerar: `python3 scripts/tabelas_nr28.py .` e `python3 scripts/tabelas_nr15.py .`
 
 ## Atenção
 

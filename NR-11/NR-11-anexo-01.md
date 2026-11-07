@@ -39,7 +39,9 @@
 
 1.4 As áreas de movimentação de chapas devem propiciar condições para a realização do trabalho com segurança.
 
-1.4.1 A circulação de pessoas nas áreas de movimentação de chapas deve ser interrompida durante a realização desta atividade. 2. Requisitos técnicos para equipamentos utilizados para movimentação, armazenagem e manuseio de chapas de rochas ornamentais
+1.4.1 A circulação de pessoas nas áreas de movimentação de chapas deve ser interrompida durante a realização desta atividade.
+
+2. Requisitos técnicos para equipamentos utilizados para movimentação, armazenagem e manuseio de chapas de rochas ornamentais
 
 ## 2.1 Fueiros ou “L”
 
@@ -105,7 +107,9 @@
 
 2.6.3 A movimentação de chapas com uso de garras só pode ser realizada pegando-se uma chapa por vez.
 
-2.6.4 As chapas movimentadas com uso de carro de transferência devem possuir amarração com cintas ou material de resistência equivalente. 3. Condições ambientais e equipamentos para movimentação de chapas fracionadas de rochas ornamentais em marmorarias
+2.6.4 As chapas movimentadas com uso de carro de transferência devem possuir amarração com cintas ou material de resistência equivalente.
+
+3. Condições ambientais e equipamentos para movimentação de chapas fracionadas de rochas ornamentais em marmorarias
 
 3.1 Os pisos dos locais de trabalho onde houver movimentação de chapas de rochas ornamentais fracionadas devem ser projetados e construídos de acordo com parâmetros técnicos, com o objetivo de suportar as cargas usuais e oferecer segurança na movimentação.
 
@@ -121,7 +125,9 @@
 
 3.3 O equipamento para movimentação de chapas fracionadas de rochas ornamentais deve possuir no mínimo três rodas, resistência, estabilidade e facilidade de mobilidade, identificação de capacidade máxima de carga e ser compatível com as cargas.
 
-3.3.1 As cargas de chapas fracionadas devem estar devidamente amarradas à estrutura do equipamento. 4. Carga e descarga de chapas de rochas ornamentais
+3.3.1 As cargas de chapas fracionadas devem estar devidamente amarradas à estrutura do equipamento.
+
+## 4. Carga e descarga de chapas de rochas ornamentais
 
 4.1 A empresa deve destinar área específica de carga e descarga de chapas, com sinalização horizontal e vertical.
 
@@ -139,7 +145,9 @@
 
 4.6 É proibida a permanência de trabalhadores no interior de contêineres durante a entrada da carga.
 
-4.7 A retirada da amarração da carga no contêiner só poderá ser realizada após a estabilização e fixação primária da carga. 5. Capacitação para movimentação, armazenagem e manuseio de chapas de rochas ornamentais
+4.7 A retirada da amarração da carga no contêiner só poderá ser realizada após a estabilização e fixação primária da carga.
+
+## 5. Capacitação para movimentação, armazenagem e manuseio de chapas de rochas ornamentais
 
 5.1 A movimentação, manuseio e armazenagem de chapas de rochas ornamentais somente podem ser realizadas por trabalhador capacitado e autorizado pelo empregador.
 
@@ -203,7 +211,9 @@ Riscos de acidentes;
 
 Metodologias de Análise de Riscos: conceitos e exercícios práticos;
 
-10. Equipamentos de proteção coletiva; 11. Medidas técnicas e administrativas;
+10. Equipamentos de proteção coletiva;
+
+11. Medidas técnicas e administrativas;
 
 ```text
 12. Equipamentos de Proteção Individual;
@@ -256,7 +266,9 @@ Conteúdo Programático mínimo:
 
 Ovador de Contêiner;
 
-14. Equipamento de movimentação de chapas fracionadas; 15. Dispositivos de segurança de acordo com a NR-12 e normas técnicas aplicáveis. Aulas práticas: 8 horas Conteúdo Programático mínimo: 1.
+14. Equipamento de movimentação de chapas fracionadas;
+
+15. Dispositivos de segurança de acordo com a NR-12 e normas técnicas aplicáveis. Aulas práticas: 8 horas Conteúdo Programático mínimo: 1.
 
 Carga e descarga de chapas e blocos em veículos;
 
@@ -292,7 +304,9 @@ Movimentação de bloco de rocha ornamental com uso de pórtico rolante.
 
 Ovador de Contêiner;
 
-## 10. Equipamento de movimentação de chapas fracionadas. 6. Disposições gerais
+10. Equipamento de movimentação de chapas fracionadas.
+
+## 6. Disposições gerais
 
 6.1 Durante as atividades de preparação e retirada de chapas serradas do tear, devem ser tomadas providências para impedir que o quadro inferior porta-lâminas do tear caia sobre os trabalhadores.
 

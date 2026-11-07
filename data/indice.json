@@ -9,15 +9,20 @@
    "ultima_alteracao_dou": "16/05/25",
    "arquivo_md": "NR-01/NR-01.md",
    "pdf": "NR-01/pdf/nr-01-atualizada-2025-i-3.pdf",
-   "anexos": [],
+   "anexos": [
+    {
+     "id": "ANEXO-II",
+     "titulo": "Anexo II da NR-01 Diretrizes e requisitos mínimos para utilização da modalidade de ensino a distância esemipresencial. Sumário:"
+    }
+   ],
    "totais": {
-    "titulo": 23,
-    "item": 152,
+    "titulo": 27,
+    "item": 154,
     "alinea": 110,
     "inciso": 0,
-    "texto": 8,
+    "texto": 7,
     "tabela": 0,
-    "anexo": 0
+    "anexo": 1
    },
    "revogados": 0,
    "arquivo_json": "data/NR-01.json"
@@ -35,7 +40,7 @@
     "item": 26,
     "alinea": 5,
     "inciso": 0,
-    "texto": 4,
+    "texto": 3,
     "tabela": 2,
     "anexo": 0
    },
@@ -51,8 +56,12 @@
    "pdf": "NR-04/pdf/nr-04-atualizada-2023.pdf",
    "anexos": [
     {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I"
+    },
+    {
      "id": "ANEXO-II",
-     "titulo": "Anexo II, desde que nenhum estabelecimento individualmente se enquadre, observado o disposto no item 4.5.1 e seus subitens."
+     "titulo": "ANEXO II"
     }
    ],
    "totais": {
@@ -62,7 +71,7 @@
     "inciso": 0,
     "texto": 2,
     "tabela": 23,
-    "anexo": 1
+    "anexo": 2
    },
    "revogados": 0,
    "arquivo_json": "data/NR-04.json"
@@ -77,12 +86,12 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "ANEXO I da NR-5 CIPA DA INDÚSTRIA DA CONSTRUÇÃO Sumário 1. Objetivo 2. Campo de Aplicação 3. Disposições Gerais 1. Objetivo"
+     "titulo": "ANEXO I da NR-5 CIPA DA INDÚSTRIA DA CONSTRUÇÃO"
     }
    ],
    "totais": {
     "titulo": 10,
-    "item": 119,
+    "item": 120,
     "alinea": 49,
     "inciso": 0,
     "texto": 1,
@@ -126,18 +135,34 @@
    "pdf": "NR-07/pdf/nr-07-atualizada-2022-1.pdf",
    "anexos": [
     {
-     "id": "ANEXO-1",
-     "titulo": "Anexo, o médico do trabalho responsável pelo PCMSO deve:"
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II CONTROLE MÉDICO OCUPACIONAL DA EXPOSIÇÃO A NÍVEIS DE PRESSÃO SONORA ELEVADOS"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III CONTROLE RADIOLÓGICO E ESPIROMÉTRICO DA EXPOSIÇÃO A AGENTES QUÍMICOS"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV CONTROLE MÉDICO OCUPACIONAL DE EXPOSIÇÃO A CONDIÇÕES HIPERBÁRICAS"
+    },
+    {
+     "id": "ANEXO-V",
+     "titulo": "ANEXO V"
     }
    ],
    "totais": {
-    "titulo": 9,
-    "item": 172,
+    "titulo": 19,
+    "item": 182,
     "alinea": 158,
     "inciso": 5,
-    "texto": 23,
+    "texto": 19,
     "tabela": 11,
-    "anexo": 1
+    "anexo": 5
    },
    "revogados": 0,
    "arquivo_json": "data/NR-07.json"
@@ -180,7 +205,7 @@
     }
    ],
    "totais": {
-    "titulo": 7,
+    "titulo": 16,
     "item": 67,
     "alinea": 69,
     "inciso": 0,
@@ -201,17 +226,29 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "ANEXO I"
+     "titulo": "ANEXO I GLOSSÁRIO"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III TREINAMENTOS DE SEGURANÇA E SAÚDE NO TRABALHO 1. TREINAMENTO INICIAL BÁSICO"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV ESPECIFICAÇÃO MÍNIMA DE EPI PARA PROTEÇÃO CONTRA O ARCO ELÉTRICO"
     }
    ],
    "totais": {
     "titulo": 15,
-    "item": 146,
+    "item": 228,
     "alinea": 227,
     "inciso": 0,
     "texto": 46,
     "tabela": 2,
-    "anexo": 1
+    "anexo": 4
    },
    "revogados": 0,
    "arquivo_json": "data/NR-10.json"
@@ -226,12 +263,12 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "Anexo I desta NR. (Acrescentado pela Portaria SIT n.º 56, de 17 de setembro de 2003)"
+     "titulo": "ANEXO I DA NR-11"
     }
    ],
    "totais": {
-    "titulo": 6,
-    "item": 107,
+    "titulo": 8,
+    "item": 118,
     "alinea": 28,
     "inciso": 0,
     "texto": 35,
@@ -250,54 +287,62 @@
    "pdf": "NR-12/pdf/nr-12-atualizada-2025.pdf",
    "anexos": [
     {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I da NR-12 REQUISITOS PARA O USO DE DETECTORES DE PRESENÇA OPTOELETRÔNICOS"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II da NR-12 CONTEÚDO PROGRAMÁTICO DA CAPACITAÇÃO"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III da NR-12 MEIOS DE ACESSO A MÁQUINAS E EQUIPAMENTOS"
+    },
+    {
      "id": "ANEXO-IV",
-     "titulo": "ANEXO IV da NR-12"
+     "titulo": "ANEXO IV da NR-12 GLOSSÁRIO"
     },
     {
      "id": "ANEXO-V",
-     "titulo": "ANEXO V da NR-12 MOTOSSERRAS 1. As motosserras devem dispor dos seguintes dispositivos de segurança:"
+     "titulo": "ANEXO V da NR-12 MOTOSSERRAS"
     },
     {
-     "id": "ANEXO-3",
-     "titulo": "Anexo, que não possuam dispositivo para manuseio do tipo carrinho manual ou similar para seu deslocamento, devem possuir pega, ou alças."
+     "id": "ANEXO-VI",
+     "titulo": "ANEXO VI da NR-12 MÁQUINAS PARA PANIFICAÇÃO E CONFEITARIA"
     },
     {
-     "id": "ANEXO-4",
-     "titulo": "Anexo, deve cessar no máximo em dois segundos quando a proteção móvel for acionada, ou deverá ser atendido o disposto na alínea “b” do subitem 12.5.6 desta NR."
+     "id": "ANEXO-VII",
+     "titulo": "ANEXO VII da NR-12 MÁQUINAS PARA AÇOUGUE, MERCEARIA, BARES E RESTAURANTES"
     },
     {
-     "id": "ANEXO-D",
-     "titulo": "Anexo devem ser classificados como categoria 4, conforme a norma ABNT NBR 14153."
+     "id": "ANEXO-VIII",
+     "titulo": "ANEXO VIII da NR-12 PRENSAS E SIMILARES"
     },
     {
      "id": "ANEXO-IX",
-     "titulo": "Anexo IX, desde que encaminhe essa informação para o Departamento de Segurança e Saúde no Trabalho."
-    },
-    {
-     "id": "ANEXO-7",
-     "titulo": "Anexo."
-    },
-    {
-     "id": "ANEXO-8",
-     "titulo": "Anexo."
+     "titulo": "ANEXO IX da NR-12 INJETORA DE MATERIAIS PLÁSTICOS"
     },
     {
      "id": "ANEXO-X",
-     "titulo": "ANEXO X da NR-12 MÁQUINAS PARA FABRICAÇÃO DE CALÇADOS E AFINS 1. Introdução"
+     "titulo": "ANEXO X da NR-12 MÁQUINAS PARA FABRICAÇÃO DE CALÇADOS E AFINS"
     },
     {
-     "id": "ANEXO-10",
-     "titulo": "Anexo;"
+     "id": "ANEXO-XI",
+     "titulo": "ANEXO XI da NR-12 MÁQUINAS E IMPLEMENTOS PARA USO AGRÍCOLA E FLORESTAL"
+    },
+    {
+     "id": "ANEXO-XII",
+     "titulo": "ANEXO XII da NR-12 EQUIPAMENTOS DE GUINDAR PARA ELEVAÇÃO DE PESSOAS E REALIZAÇÃO DE TRABALHO EM ALTURA"
     }
    ],
    "totais": {
-    "titulo": 10,
-    "item": 864,
+    "titulo": 35,
+    "item": 915,
     "alinea": 782,
     "inciso": 0,
-    "texto": 58,
+    "texto": 46,
     "tabela": 3,
-    "anexo": 10
+    "anexo": 12
    },
    "revogados": 0,
    "arquivo_json": "data/NR-12.json"
@@ -311,28 +356,28 @@
    "pdf": "NR-13/pdf/nr-13-atualizada-2023-b.pdf",
    "anexos": [
     {
-     "id": "ANEXO-II",
-     "titulo": "Anexo II desta NR."
-    },
-    {
      "id": "ANEXO-I",
-     "titulo": "Anexo I desta NR."
+     "titulo": "ANEXO I DA NR-13 CAPACITAÇÃO E TREINAMENTO"
     },
     {
-     "id": "ANEXO-I-B",
-     "titulo": "ANEXO I DA NR-13 CAPACITAÇÃO E TREINAMENTO 1. Caldeiras"
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II DA NR-13 REQUISITOS PARA CERTIFICAÇÃO DE SERVIÇO PRÓPRIO DE INSPEÇÃO DE EQUIPAMENTOS - SPIE"
     },
     {
-     "id": "ANEXO-4",
-     "titulo": "Anexo;"
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III DA NR-13 CERTIFICAÇÃO VOLUNTÁRIA DE COMPETÊNCIAS DO PROFISSIONAL LEGALMENTE HABILITADO - PLH"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV DA NR-13 REQUISITOS PARA AMPLIAÇÃO DE PRAZO DE INSPEÇÃO DE CALDEIRAS CATEGORIA A COM SISTEMA INSTRUMENTADO DE SEGURANÇA (SIS) E DE CALDEIRAS CATEGORIA B COM SISTEMA DE GERENCIAMENTO DE COMBUSTÃO - SGC"
     }
    ],
    "totais": {
-    "titulo": 20,
-    "item": 172,
+    "titulo": 22,
+    "item": 178,
     "alinea": 292,
     "inciso": 32,
-    "texto": 8,
+    "texto": 5,
     "tabela": 1,
     "anexo": 4
    },
@@ -372,6 +417,10 @@
      "titulo": "ANEXO Nº 1 LIMITES DE TOLERÂNCIA PARA RUÍDO CONTÍNUO OU INTERMITENTE"
     },
     {
+     "id": "ANEXO-2",
+     "titulo": "ANEXO Nº 2 LIMITES DE TOLERÂNCIA PARA RUÍDOS DE IMPACTO"
+    },
+    {
      "id": "ANEXO-3",
      "titulo": "ANEXO Nº 3 LIMITES DE TOLERÂNCIA PARA EXPOSIÇÃO AO CALOR"
     },
@@ -380,34 +429,82 @@
      "titulo": "ANEXO Nº 4"
     },
     {
-     "id": "ANEXO-C",
-     "titulo": "Anexo C."
+     "id": "ANEXO-5",
+     "titulo": "ANEXO Nº 5 RADIAÇÕES IONIZANTES"
+    },
+    {
+     "id": "ANEXO-6",
+     "titulo": "ANEXO Nº 6 TRABALHO SOB CONDIÇÕES HIPERBÁRICAS"
     },
     {
      "id": "ANEXO-A",
-     "titulo": "ANEXO “A” PADRÕES PSICOFÍSICOS PARA SELEÇÃO DOS CANDIDATOS À ATIVIDADE DE MERGULHO"
+     "titulo": "ANEXO “A” PADRÕES PSICOFÍSICOS PARA SELEÇÃO DOS CANDIDATOS À ATIVIDADE DE MERGULHO I - IDADE"
     },
     {
-     "id": "ANEXO-C-B",
-     "titulo": "ANEXO “C”"
+     "id": "ANEXO-B",
+     "titulo": "ANEXO “B” PADRÕES PSICOFÍSICOS PARA CONTROLE DO PESSOAL EM ATIVIDADE DE MERGULHO"
+    },
+    {
+     "id": "ANEXO-C",
+     "titulo": "ANEXO “C” TABELAS DE DESCOMPRESSÃO"
+    },
+    {
+     "id": "ANEXO-7",
+     "titulo": "ANEXO Nº 7 RADIAÇÕES NÃO-IONIZANTES"
     },
     {
      "id": "ANEXO-8",
      "titulo": "ANEXO Nº 8"
     },
     {
+     "id": "ANEXO-9",
+     "titulo": "ANEXO Nº 9 FRIO"
+    },
+    {
+     "id": "ANEXO-10",
+     "titulo": "ANEXO Nº 10 UMIDADE"
+    },
+    {
+     "id": "ANEXO-11",
+     "titulo": "ANEXO Nº 11 AGENTES QUÍMICOS CUJA INSALUBRIDADE É CARACTERIZADA POR LIMITE DE TOLERÂNCIA E INSPEÇÃO NO LOCAL DE TRABALHO"
+    },
+    {
+     "id": "ANEXO-12",
+     "titulo": "ANEXO Nº 12"
+    },
+    {
+     "id": "ANEXO-1-B",
+     "titulo": "ANEXO Nº 1"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III"
+    },
+    {
+     "id": "ANEXO-13",
+     "titulo": "ANEXO Nº 13 AGENTES QUÍMICOS"
+    },
+    {
      "id": "ANEXO-13-A",
      "titulo": "ANEXO Nº 13-A"
+    },
+    {
+     "id": "ANEXO-14",
+     "titulo": "ANEXO Nº 14"
     }
    ],
    "totais": {
-    "titulo": 0,
-    "item": 247,
+    "titulo": 7,
+    "item": 320,
     "alinea": 270,
-    "inciso": 52,
-    "texto": 41,
+    "inciso": 51,
+    "texto": 31,
     "tabela": 52,
-    "anexo": 8
+    "anexo": 21
    },
    "revogados": 7,
    "arquivo_json": "data/NR-15.json"
@@ -425,18 +522,38 @@
      "titulo": "ANEXO I ATIVIDADES E OPERAÇÕES PERIGOSAS COM EXPLOSIVOS"
     },
     {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III ATIVIDADES E OPERAÇÕES PERIGOSAS COM EXPOSIÇÃO A ROUBOS OU OUTRAS ESPÉCIES DE VIOLÊNCIA FÍSICA NAS ATIVIDADES PROFISSIONAIS DE SEGURANÇA PESSOAL OU PATRIMONIAL"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV ATIVIDADES E OPERAÇÕES PERIGOSAS COM ENERGIA ELÉTRICA"
+    },
+    {
+     "id": "ANEXO-V",
+     "titulo": "ANEXO V ATIVIDADES PERIGOSAS EM MOTOCICLETA"
+    },
+    {
+     "id": "ANEXO-V-B",
+     "titulo": "ANEXO V ATIVIDADES PERIGOSAS EM MOTOCICLETA"
+    },
+    {
      "id": "ANEXO-VI",
      "titulo": "ANEXO VI ATIVIDADES PERIGOSAS DOS AGENTES DAS AUTORIDADES DE TRÂNSITO"
     }
    ],
    "totais": {
-    "titulo": 1,
-    "item": 68,
+    "titulo": 6,
+    "item": 78,
     "alinea": 72,
     "inciso": 0,
     "texto": 74,
     "tabela": 4,
-    "anexo": 2
+    "anexo": 7
    },
    "revogados": 0,
    "arquivo_json": "data/NR-16.json"
@@ -448,15 +565,24 @@
    "ultima_alteracao_dou": "22/12/22",
    "arquivo_md": "NR-17/NR-17.md",
    "pdf": "NR-17/pdf/nr-17-atualizada-2023_1.pdf",
-   "anexos": [],
+   "anexos": [
+    {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I da NR 17 TRABALHO DOS OPERADORES DE CHECKOUT"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II da NR 17 TRABALHO EM TELEATENDIMENTO/TELEMARKETING"
+    }
+   ],
    "totais": {
-    "titulo": 7,
+    "titulo": 23,
     "item": 160,
     "alinea": 148,
     "inciso": 18,
     "texto": 2,
     "tabela": 0,
-    "anexo": 0
+    "anexo": 2
    },
    "revogados": 0,
    "arquivo_json": "data/NR-17.json"
@@ -471,25 +597,21 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "Anexo I desta NR."
+     "titulo": "ANEXO I - CAPACITAÇÃO: CARGA HORÁRIA, PERIODICIDADE E CONTEÚDO PROGRAMÁTICO"
     },
     {
-     "id": "ANEXO-XII",
-     "titulo": "Anexo XII da NR-12;"
-    },
-    {
-     "id": "ANEXO-I-B",
-     "titulo": "Anexo I desta NR."
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II - CABOS DE AÇO E DE FIBRA SINTÉTICA"
     }
    ],
    "totais": {
-    "titulo": 34,
-    "item": 388,
+    "titulo": 33,
+    "item": 400,
     "alinea": 484,
     "inciso": 0,
-    "texto": 6,
+    "texto": 5,
     "tabela": 1,
-    "anexo": 3
+    "anexo": 2
    },
    "revogados": 1,
    "arquivo_json": "data/NR-18.json"
@@ -503,22 +625,26 @@
    "pdf": "NR-19/pdf/nr-19-atualizada-2023.pdf",
    "anexos": [
     {
-     "id": "ANEXO-II",
-     "titulo": "Anexo II desta norma."
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I da NR-19 SEGURANÇA E SAÚDE NA INDÚSTRIA E COMÉRCIO DE FOGOS DE ARTIFÍCIO E OUTROS ARTEFATOS PIROTÉCNICOS SUMÁRIO"
     },
     {
-     "id": "ANEXO-II-B",
-     "titulo": "ANEXO II da NR-19"
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II da NR-19 TABELAS DE QUANTIDADES-DISTÂNCIAS SUMÁRIO"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III da NR-19 GRUPOS DE INCOMPATIBILIDADE PARA ARMAZENAMENTO E TRANSPORTE GRUPO A B C D E F G DESCRIÇÃO DO PRODUTO E EXEMPLO"
     }
    ],
    "totais": {
-    "titulo": 6,
-    "item": 158,
+    "titulo": 23,
+    "item": 160,
     "alinea": 94,
     "inciso": 22,
-    "texto": 8,
+    "texto": 6,
     "tabela": 4,
-    "anexo": 2
+    "anexo": 3
    },
    "revogados": 0,
    "arquivo_json": "data/NR-19.json"
@@ -530,15 +656,32 @@
    "ultima_alteracao_dou": "22/01/25",
    "arquivo_md": "NR-20/NR-20.md",
    "pdf": "NR-20/pdf/nr-20-atualizada-2025.pdf",
-   "anexos": [],
+   "anexos": [
+    {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I da NR-20"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II da NR-20"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III da NR-20 TANQUE DE LÍQUIDOS INFLAMÁVEIS NO INTERIOR DE EDIFÍCIOS"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV da NR-20"
+    }
+   ],
    "totais": {
-    "titulo": 15,
-    "item": 174,
+    "titulo": 26,
+    "item": 226,
     "alinea": 172,
     "inciso": 6,
-    "texto": 9,
+    "texto": 8,
     "tabela": 1,
-    "anexo": 0
+    "anexo": 4
    },
    "revogados": 0,
    "arquivo_json": "data/NR-20.json"
@@ -573,29 +716,33 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "ANEXO I da NR-22 Cabos de Aço, Correntes e Acessórios 1. Objetivo"
+     "titulo": "ANEXO I da NR-22"
     },
     {
      "id": "ANEXO-II",
-     "titulo": "ANEXO II da NR-22 Capacitação e Treinamento 1. Objetivo e campo de aplicação"
+     "titulo": "ANEXO II da NR-22"
     },
     {
      "id": "ANEXO-III",
-     "titulo": "ANEXO III da NR-22 Requisitos Mínimos para Utilização de Equipamentos de Guindar de Lança Fixa 1. Objetivo"
+     "titulo": "ANEXO III da NR-22"
     },
     {
      "id": "ANEXO-IV",
-     "titulo": "ANEXO IV da NR-22 Quadros"
+     "titulo": "ANEXO IV da NR-22"
+    },
+    {
+     "id": "ANEXO-V",
+     "titulo": "ANEXO V da NR-22"
     }
    ],
    "totais": {
-    "titulo": 35,
-    "item": 568,
+    "titulo": 60,
+    "item": 569,
     "alinea": 416,
     "inciso": 28,
-    "texto": 9,
+    "texto": 10,
     "tabela": 1,
-    "anexo": 4
+    "anexo": 5
    },
    "revogados": 33,
    "arquivo_json": "data/NR-22.json"
@@ -627,15 +774,32 @@
    "ultima_alteracao_dou": "14/09/26",
    "arquivo_md": "NR-24/NR-24.md",
    "pdf": "NR-24/pdf/nr-24-atualizada-2022.pdf",
-   "anexos": [],
+   "anexos": [
+    {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I da NR-24 CONDIÇÕES SANITÁRIAS E DE CONFORTO APLICÁVEIS A TRABALHADORES EM “SHOPPING CENTER”"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II da NR-24 CONDIÇÕES SANITÁRIAS E DE CONFORTO APLICÁVEIS A TRABALHADORES EM TRABALHO EXTERNO DE PRESTAÇÃO DE SERVIÇOS"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III da NR-24 CONDIÇÕES SANITÁRIAS E DE CONFORTO APLICÁVEIS A TRABALHADORES EM TRANSPORTE PÚBLICO RODOVIÁRIO COLETIVO URBANO DE PASSAGEIROS EM ATIVIDADE EXTERNA"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV da NR-24 MÓDULOS PRÉ-FABRICADOS E CONTÊINERES MARÍTIMOS TRANSFORMADOS PARA OCUPAÇÃO HUMANA"
+    }
+   ],
    "totais": {
-    "titulo": 16,
-    "item": 152,
+    "titulo": 19,
+    "item": 164,
     "alinea": 116,
     "inciso": 0,
-    "texto": 4,
+    "texto": 1,
     "tabela": 0,
-    "anexo": 0
+    "anexo": 4
    },
    "revogados": 0,
    "arquivo_json": "data/NR-24.json"
@@ -687,7 +851,16 @@
    "ultima_alteracao_dou": "30/09/26",
    "arquivo_md": "NR-28/NR-28.md",
    "pdf": "NR-28/pdf/nr-28-atualizada-2026.pdf",
-   "anexos": [],
+   "anexos": [
+    {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II"
+    }
+   ],
    "totais": {
     "titulo": 1,
     "item": 17,
@@ -695,7 +868,7 @@
     "inciso": 0,
     "texto": 0,
     "tabela": 155,
-    "anexo": 0
+    "anexo": 2
    },
    "revogados": 0,
    "arquivo_json": "data/NR-28.json"
@@ -707,15 +880,36 @@
    "ultima_alteracao_dou": "22/12/22",
    "arquivo_md": "NR-29/NR-29.md",
    "pdf": "NR-29/pdf/nr-29-atualizada-2023.pdf",
-   "anexos": [],
+   "anexos": [
+    {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III"
+    },
+    {
+     "id": "ANEXO-IV",
+     "titulo": "ANEXO IV CARGAS PERIGOSAS CLASSE 1 - EXPLOSIVOS DIVISÃO DESCRIÇÃO DA SUBSTÂNCIA OU ARTIGO"
+    },
+    {
+     "id": "ANEXO-V",
+     "titulo": "ANEXO V"
+    }
+   ],
    "totais": {
-    "titulo": 31,
-    "item": 309,
+    "titulo": 30,
+    "item": 311,
     "alinea": 232,
     "inciso": 0,
-    "texto": 9,
+    "texto": 6,
     "tabela": 3,
-    "anexo": 0
+    "anexo": 5
    },
    "revogados": 0,
    "arquivo_json": "data/NR-29.json"
@@ -729,16 +923,16 @@
    "pdf": "NR-30/pdf/nr-30-atualizada-2023_1.pdf",
    "anexos": [
     {
-     "id": "ANEXO-1",
-     "titulo": "Anexo."
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I da NR-30 PESCA COMERCIAL SUMÁRIO"
     }
    ],
    "totais": {
-    "titulo": 49,
-    "item": 397,
+    "titulo": 67,
+    "item": 409,
     "alinea": 238,
     "inciso": 3,
-    "texto": 19,
+    "texto": 10,
     "tabela": 6,
     "anexo": 1
    },
@@ -754,34 +948,22 @@
    "pdf": "NR-31/pdf/nr-31-atualizada-2024-2.pdf",
    "anexos": [
     {
-     "id": "ANEXO-II",
-     "titulo": "Anexo II desta Norma."
-    },
-    {
      "id": "ANEXO-I",
-     "titulo": "Anexo I desta Norma."
+     "titulo": "ANEXO I MEIOS DE ACESSO A MÁQUINAS, EQUIPAMENTOS E IMPLEMENTOS"
     },
     {
-     "id": "ANEXO-I-B",
-     "titulo": "Anexo I desta Norma, ou por meio de andaimes metálicos, atendidos os requisitos do item 6 do"
-    },
-    {
-     "id": "ANEXO-I-B-B",
-     "titulo": "Anexo I desta Norma."
-    },
-    {
-     "id": "ANEXO-II-B",
-     "titulo": "ANEXO II"
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II QUADROS E FIGURAS AUXILIARES"
     }
    ],
    "totais": {
     "titulo": 24,
-    "item": 457,
+    "item": 473,
     "alinea": 479,
     "inciso": 0,
-    "texto": 19,
+    "texto": 15,
     "tabela": 8,
-    "anexo": 5
+    "anexo": 2
    },
    "revogados": 0,
    "arquivo_json": "data/NR-31.json"
@@ -795,18 +977,26 @@
    "pdf": "NR-32/pdf/nr-32-atualizada-2023-1.pdf",
    "anexos": [
     {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I"
+    },
+    {
      "id": "ANEXO-II",
      "titulo": "ANEXO II"
+    },
+    {
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III PLANO DE PREVENÇÃO DE RISCOS DE ACIDENTES COM MATERIAIS PERFUROCORTANTES"
     }
    ],
    "totais": {
     "titulo": 26,
-    "item": 232,
+    "item": 244,
     "alinea": 256,
     "inciso": 0,
     "texto": 11,
     "tabela": 15,
-    "anexo": 1
+    "anexo": 3
    },
    "revogados": 2,
    "arquivo_json": "data/NR-32.json"
@@ -821,15 +1011,15 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "Anexo I desta NR."
+     "titulo": "ANEXO I SINALIZAÇÃO OBRIGATÓRIA PARA ESPAÇO CONFINADO"
     },
     {
      "id": "ANEXO-II",
-     "titulo": "Anexo II desta NR."
+     "titulo": "ANEXO II"
     },
     {
-     "id": "ANEXO-I-B",
-     "titulo": "ANEXO I SINALIZAÇÃO OBRIGATÓRIA PARA ESPAÇO CONFINADO"
+     "id": "ANEXO-III",
+     "titulo": "ANEXO III"
     }
    ],
    "totais": {
@@ -853,18 +1043,22 @@
    "pdf": "NR-34/pdf/nr-34-atualizada-2023-2.pdf",
    "anexos": [
     {
+     "id": "ANEXO-I",
+     "titulo": "ANEXO I CONTEÚDO PROGRAMÁTICO E CARGA HORÁRIA MÍNIMA PARA O PROGRAMA DE TREINAMENTO"
+    },
+    {
      "id": "ANEXO-II",
      "titulo": "ANEXO II"
     }
    ],
    "totais": {
     "titulo": 24,
-    "item": 368,
+    "item": 373,
     "alinea": 305,
     "inciso": 0,
-    "texto": 46,
+    "texto": 45,
     "tabela": 4,
-    "anexo": 1
+    "anexo": 2
    },
    "revogados": 8,
    "arquivo_json": "data/NR-34.json"
@@ -879,25 +1073,29 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "ANEXO I da NR-35 ACESSO POR CORDAS 1. Objetivo"
+     "titulo": "ANEXO I da NR-35 ACESSO POR CORDAS"
     },
     {
      "id": "ANEXO-II",
-     "titulo": "ANEXO II da NR-35 SISTEMAS DE ANCORAGEM 1. Objetivo"
+     "titulo": "ANEXO II da NR-35 SISTEMAS DE ANCORAGEM"
     },
     {
      "id": "ANEXO-III",
      "titulo": "ANEXO III da NR-35 - ESCADAS"
+    },
+    {
+     "id": "ANEXO-III-B",
+     "titulo": "ANEXO III da NR-35 ESCADAS DE USO INDIVIDUAL"
     }
    ],
    "totais": {
-    "titulo": 16,
+    "titulo": 32,
     "item": 153,
     "alinea": 159,
     "inciso": 3,
     "texto": 6,
     "tabela": 0,
-    "anexo": 3
+    "anexo": 4
    },
    "revogados": 1,
    "arquivo_json": "data/NR-35.json"
@@ -912,17 +1110,21 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "Anexo I da NR-12 ou adotadas as seguintes medidas de proteção de forma conjunta:"
+     "titulo": "ANEXO I DA NR-36 - GLOSSÁRIO"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II REQUISITOS DE SEGURANÇA ESPECÍFICOS PARA MÁQUINAS UTILIZADAS NAS INDÚSTRIAS DE ABATE E PROCESSAMENTO DE CARNES E DERIVADOS DESTINADOS AO CONSUMO HUMANO"
     }
    ],
    "totais": {
-    "titulo": 26,
-    "item": 302,
+    "titulo": 27,
+    "item": 391,
     "alinea": 198,
     "inciso": 4,
-    "texto": 11,
+    "texto": 10,
     "tabela": 0,
-    "anexo": 1
+    "anexo": 2
    },
    "revogados": 0,
    "arquivo_json": "data/NR-36.json"
@@ -937,45 +1139,37 @@
    "anexos": [
     {
      "id": "ANEXO-I",
-     "titulo": "Anexo I - Curso básico para manipuladores de alimentos"
+     "titulo": "ANEXO I CURSO BÁSICO PARA MANIPULADORES DE ALIMENTOS"
+    },
+    {
+     "id": "ANEXO-II",
+     "titulo": "ANEXO II SÍMBOLOS PARA SINALIZAR FONTES DE RADIAÇÃO IONIZANTE, LOCAIS DE ARMAZENAMENTO DE MATERIAL RADIOATIVO E LOCAIS DE TRABALHO COM EXPOSIÇÃO À RADIAÇÃO IONIZANTE INDUSTRIAL OU DE OCORRÊNCIA NATURAL"
     },
     {
      "id": "ANEXO-III",
-     "titulo": "Anexo III - Curso complementar para serviços em instalações elétricas em alta tensão"
+     "titulo": "ANEXO III CURSO COMPLEMENTAR PARA SERVIÇOS EM INSTALAÇÕES ELÉTRICAS EM ALTA TENSÃO Carga horária mínima: 16 horas. Conteúdo programático:"
     },
     {
      "id": "ANEXO-IV",
-     "titulo": "Anexo IV - Curso básico de segurança em operações de movimentação de cargas e transporte de pessoas"
+     "titulo": "ANEXO IV CURSO BÁSICO DE SEGURANÇA EM OPERAÇÕES DE MOVIMENTAÇÃO DE CARGAS E TRANSPORTE DE PESSOAS"
     },
     {
      "id": "ANEXO-V",
-     "titulo": "Anexo V - Curso complementar para operadores de guindastes"
+     "titulo": "ANEXO V"
     },
     {
      "id": "ANEXO-VI",
-     "titulo": "Anexo VI - Comunicação de Incidente em Plataforma - CIP"
-    },
-    {
-     "id": "ANEXO-VI-B",
-     "titulo": "Anexo VI desta NR, as seguintes informações:"
-    },
-    {
-     "id": "ANEXO-I-B",
-     "titulo": "ANEXO I CURSO BÁSICO PARA MANIPULADORES DE ALIMENTOS Carga horária mínima: 12 horas. Conteúdo programático:"
-    },
-    {
-     "id": "ANEXO-IV-B",
-     "titulo": "ANEXO IV CURSO BÁSICO DE SEGURANÇA EM OPERAÇÕES DE MOVIMENTAÇÃO DE CARGAS E TRANSPORTE DE PESSOAS Carga horária mínima: 20 horas. Conteúdo programático:"
+     "titulo": "ANEXO VI"
     }
    ],
    "totais": {
-    "titulo": 88,
-    "item": 622,
+    "titulo": 57,
+    "item": 623,
     "alinea": 691,
     "inciso": 0,
-    "texto": 9,
+    "texto": 7,
     "tabela": 2,
-    "anexo": 8
+    "anexo": 6
    },
    "revogados": 0,
    "arquivo_json": "data/NR-37.json"

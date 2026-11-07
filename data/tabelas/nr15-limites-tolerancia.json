@@ -1,0 +1,3366 @@
+{
+ "versao_esquema": 1,
+ "gerado_em": "2026-11-07",
+ "fonte": {
+  "nr": 15,
+  "pdf": "NR-15/pdf/nr-15-atualizada-2025_1.pdf"
+ },
+ "anexo_1_ruido": {
+  "titulo": "Limites de tolerância para ruído contínuo ou intermitente",
+  "valores": [
+   {
+    "nivel_db_a": 85,
+    "maxima_exposicao_diaria": "8 horas",
+    "maxima_exposicao_minutos": 480
+   },
+   {
+    "nivel_db_a": 86,
+    "maxima_exposicao_diaria": "7 horas",
+    "maxima_exposicao_minutos": 420
+   },
+   {
+    "nivel_db_a": 87,
+    "maxima_exposicao_diaria": "6 horas",
+    "maxima_exposicao_minutos": 360
+   },
+   {
+    "nivel_db_a": 88,
+    "maxima_exposicao_diaria": "5 horas",
+    "maxima_exposicao_minutos": 300
+   },
+   {
+    "nivel_db_a": 89,
+    "maxima_exposicao_diaria": "4 horas e 30 minutos",
+    "maxima_exposicao_minutos": 270
+   },
+   {
+    "nivel_db_a": 90,
+    "maxima_exposicao_diaria": "4 horas",
+    "maxima_exposicao_minutos": 240
+   },
+   {
+    "nivel_db_a": 91,
+    "maxima_exposicao_diaria": "3 horas e 30 minutos",
+    "maxima_exposicao_minutos": 210
+   },
+   {
+    "nivel_db_a": 92,
+    "maxima_exposicao_diaria": "3 horas",
+    "maxima_exposicao_minutos": 180
+   },
+   {
+    "nivel_db_a": 93,
+    "maxima_exposicao_diaria": "2 horas e 40 minutos",
+    "maxima_exposicao_minutos": 160
+   },
+   {
+    "nivel_db_a": 94,
+    "maxima_exposicao_diaria": "2 horas e 15 minutos",
+    "maxima_exposicao_minutos": 135
+   },
+   {
+    "nivel_db_a": 95,
+    "maxima_exposicao_diaria": "2 horas",
+    "maxima_exposicao_minutos": 120
+   },
+   {
+    "nivel_db_a": 96,
+    "maxima_exposicao_diaria": "1 hora e 45 minutos",
+    "maxima_exposicao_minutos": 105
+   },
+   {
+    "nivel_db_a": 98,
+    "maxima_exposicao_diaria": "1 hora e 15 minutos",
+    "maxima_exposicao_minutos": 75
+   },
+   {
+    "nivel_db_a": 100,
+    "maxima_exposicao_diaria": "1 hora",
+    "maxima_exposicao_minutos": 60
+   },
+   {
+    "nivel_db_a": 102,
+    "maxima_exposicao_diaria": "45 minutos",
+    "maxima_exposicao_minutos": 45
+   },
+   {
+    "nivel_db_a": 104,
+    "maxima_exposicao_diaria": "35 minutos",
+    "maxima_exposicao_minutos": 35
+   },
+   {
+    "nivel_db_a": 105,
+    "maxima_exposicao_diaria": "30 minutos",
+    "maxima_exposicao_minutos": 30
+   },
+   {
+    "nivel_db_a": 106,
+    "maxima_exposicao_diaria": "25 minutos",
+    "maxima_exposicao_minutos": 25
+   },
+   {
+    "nivel_db_a": 108,
+    "maxima_exposicao_diaria": "20 minutos",
+    "maxima_exposicao_minutos": 20
+   },
+   {
+    "nivel_db_a": 110,
+    "maxima_exposicao_diaria": "15 minutos",
+    "maxima_exposicao_minutos": 15
+   },
+   {
+    "nivel_db_a": 112,
+    "maxima_exposicao_diaria": "10 minutos",
+    "maxima_exposicao_minutos": 10
+   },
+   {
+    "nivel_db_a": 114,
+    "maxima_exposicao_diaria": "8 minutos",
+    "maxima_exposicao_minutos": 8
+   },
+   {
+    "nivel_db_a": 115,
+    "maxima_exposicao_diaria": "7 minutos",
+    "maxima_exposicao_minutos": 7
+   }
+  ]
+ },
+ "anexo_3_calor_quadro_1": {
+  "titulo": "Limite de exposição ocupacional ao calor",
+  "valores": [
+   {
+    "taxa_metabolica_w": 100,
+    "ibutg_max_c": 33.7
+   },
+   {
+    "taxa_metabolica_w": 102,
+    "ibutg_max_c": 33.6
+   },
+   {
+    "taxa_metabolica_w": 104,
+    "ibutg_max_c": 33.5
+   },
+   {
+    "taxa_metabolica_w": 106,
+    "ibutg_max_c": 33.4
+   },
+   {
+    "taxa_metabolica_w": 108,
+    "ibutg_max_c": 33.3
+   },
+   {
+    "taxa_metabolica_w": 110,
+    "ibutg_max_c": 33.2
+   },
+   {
+    "taxa_metabolica_w": 112,
+    "ibutg_max_c": 33.1
+   },
+   {
+    "taxa_metabolica_w": 115,
+    "ibutg_max_c": 33.0
+   },
+   {
+    "taxa_metabolica_w": 117,
+    "ibutg_max_c": 32.9
+   },
+   {
+    "taxa_metabolica_w": 119,
+    "ibutg_max_c": 32.8
+   },
+   {
+    "taxa_metabolica_w": 122,
+    "ibutg_max_c": 32.7
+   },
+   {
+    "taxa_metabolica_w": 124,
+    "ibutg_max_c": 32.6
+   },
+   {
+    "taxa_metabolica_w": 127,
+    "ibutg_max_c": 32.5
+   },
+   {
+    "taxa_metabolica_w": 129,
+    "ibutg_max_c": 32.4
+   },
+   {
+    "taxa_metabolica_w": 132,
+    "ibutg_max_c": 32.3
+   },
+   {
+    "taxa_metabolica_w": 135,
+    "ibutg_max_c": 32.2
+   },
+   {
+    "taxa_metabolica_w": 137,
+    "ibutg_max_c": 32.1
+   },
+   {
+    "taxa_metabolica_w": 140,
+    "ibutg_max_c": 32.0
+   },
+   {
+    "taxa_metabolica_w": 143,
+    "ibutg_max_c": 31.9
+   },
+   {
+    "taxa_metabolica_w": 146,
+    "ibutg_max_c": 31.8
+   },
+   {
+    "taxa_metabolica_w": 149,
+    "ibutg_max_c": 31.7
+   },
+   {
+    "taxa_metabolica_w": 152,
+    "ibutg_max_c": 31.6
+   },
+   {
+    "taxa_metabolica_w": 155,
+    "ibutg_max_c": 31.5
+   },
+   {
+    "taxa_metabolica_w": 158,
+    "ibutg_max_c": 31.4
+   },
+   {
+    "taxa_metabolica_w": 161,
+    "ibutg_max_c": 31.3
+   },
+   {
+    "taxa_metabolica_w": 165,
+    "ibutg_max_c": 31.2
+   },
+   {
+    "taxa_metabolica_w": 168,
+    "ibutg_max_c": 31.1
+   },
+   {
+    "taxa_metabolica_w": 171,
+    "ibutg_max_c": 31.0
+   },
+   {
+    "taxa_metabolica_w": 175,
+    "ibutg_max_c": 30.9
+   },
+   {
+    "taxa_metabolica_w": 178,
+    "ibutg_max_c": 30.8
+   },
+   {
+    "taxa_metabolica_w": 182,
+    "ibutg_max_c": 30.7
+   },
+   {
+    "taxa_metabolica_w": 186,
+    "ibutg_max_c": 30.6
+   },
+   {
+    "taxa_metabolica_w": 189,
+    "ibutg_max_c": 30.5
+   },
+   {
+    "taxa_metabolica_w": 193,
+    "ibutg_max_c": 30.4
+   },
+   {
+    "taxa_metabolica_w": 197,
+    "ibutg_max_c": 30.3
+   },
+   {
+    "taxa_metabolica_w": 201,
+    "ibutg_max_c": 30.2
+   },
+   {
+    "taxa_metabolica_w": 205,
+    "ibutg_max_c": 30.1
+   },
+   {
+    "taxa_metabolica_w": 209,
+    "ibutg_max_c": 30.0
+   },
+   {
+    "taxa_metabolica_w": 214,
+    "ibutg_max_c": 29.9
+   },
+   {
+    "taxa_metabolica_w": 218,
+    "ibutg_max_c": 29.8
+   },
+   {
+    "taxa_metabolica_w": 222,
+    "ibutg_max_c": 29.7
+   },
+   {
+    "taxa_metabolica_w": 227,
+    "ibutg_max_c": 29.6
+   },
+   {
+    "taxa_metabolica_w": 231,
+    "ibutg_max_c": 29.5
+   },
+   {
+    "taxa_metabolica_w": 236,
+    "ibutg_max_c": 29.4
+   },
+   {
+    "taxa_metabolica_w": 241,
+    "ibutg_max_c": 29.3
+   },
+   {
+    "taxa_metabolica_w": 246,
+    "ibutg_max_c": 29.2
+   },
+   {
+    "taxa_metabolica_w": 251,
+    "ibutg_max_c": 29.1
+   },
+   {
+    "taxa_metabolica_w": 256,
+    "ibutg_max_c": 29.0
+   },
+   {
+    "taxa_metabolica_w": 261,
+    "ibutg_max_c": 28.9
+   },
+   {
+    "taxa_metabolica_w": 266,
+    "ibutg_max_c": 28.8
+   },
+   {
+    "taxa_metabolica_w": 272,
+    "ibutg_max_c": 28.7
+   },
+   {
+    "taxa_metabolica_w": 277,
+    "ibutg_max_c": 28.6
+   },
+   {
+    "taxa_metabolica_w": 283,
+    "ibutg_max_c": 28.5
+   },
+   {
+    "taxa_metabolica_w": 289,
+    "ibutg_max_c": 28.4
+   },
+   {
+    "taxa_metabolica_w": 294,
+    "ibutg_max_c": 28.3
+   },
+   {
+    "taxa_metabolica_w": 300,
+    "ibutg_max_c": 28.2
+   },
+   {
+    "taxa_metabolica_w": 306,
+    "ibutg_max_c": 28.1
+   },
+   {
+    "taxa_metabolica_w": 313,
+    "ibutg_max_c": 28.0
+   },
+   {
+    "taxa_metabolica_w": 319,
+    "ibutg_max_c": 27.9
+   },
+   {
+    "taxa_metabolica_w": 325,
+    "ibutg_max_c": 27.8
+   },
+   {
+    "taxa_metabolica_w": 332,
+    "ibutg_max_c": 27.7
+   },
+   {
+    "taxa_metabolica_w": 339,
+    "ibutg_max_c": 27.6
+   },
+   {
+    "taxa_metabolica_w": 346,
+    "ibutg_max_c": 27.5
+   },
+   {
+    "taxa_metabolica_w": 353,
+    "ibutg_max_c": 27.4
+   },
+   {
+    "taxa_metabolica_w": 360,
+    "ibutg_max_c": 27.3
+   },
+   {
+    "taxa_metabolica_w": 367,
+    "ibutg_max_c": 27.2
+   },
+   {
+    "taxa_metabolica_w": 374,
+    "ibutg_max_c": 27.1
+   },
+   {
+    "taxa_metabolica_w": 382,
+    "ibutg_max_c": 27.0
+   },
+   {
+    "taxa_metabolica_w": 390,
+    "ibutg_max_c": 26.9
+   },
+   {
+    "taxa_metabolica_w": 398,
+    "ibutg_max_c": 26.8
+   },
+   {
+    "taxa_metabolica_w": 406,
+    "ibutg_max_c": 26.7
+   },
+   {
+    "taxa_metabolica_w": 414,
+    "ibutg_max_c": 26.6
+   },
+   {
+    "taxa_metabolica_w": 422,
+    "ibutg_max_c": 26.5
+   },
+   {
+    "taxa_metabolica_w": 431,
+    "ibutg_max_c": 26.4
+   },
+   {
+    "taxa_metabolica_w": 440,
+    "ibutg_max_c": 26.3
+   },
+   {
+    "taxa_metabolica_w": 448,
+    "ibutg_max_c": 26.2
+   },
+   {
+    "taxa_metabolica_w": 458,
+    "ibutg_max_c": 26.1
+   },
+   {
+    "taxa_metabolica_w": 467,
+    "ibutg_max_c": 26.0
+   },
+   {
+    "taxa_metabolica_w": 476,
+    "ibutg_max_c": 25.9
+   },
+   {
+    "taxa_metabolica_w": 486,
+    "ibutg_max_c": 25.8
+   },
+   {
+    "taxa_metabolica_w": 496,
+    "ibutg_max_c": 25.7
+   },
+   {
+    "taxa_metabolica_w": 506,
+    "ibutg_max_c": 25.6
+   },
+   {
+    "taxa_metabolica_w": 516,
+    "ibutg_max_c": 25.5
+   },
+   {
+    "taxa_metabolica_w": 526,
+    "ibutg_max_c": 25.4
+   },
+   {
+    "taxa_metabolica_w": 537,
+    "ibutg_max_c": 25.3
+   },
+   {
+    "taxa_metabolica_w": 548,
+    "ibutg_max_c": 25.2
+   },
+   {
+    "taxa_metabolica_w": 559,
+    "ibutg_max_c": 25.1
+   },
+   {
+    "taxa_metabolica_w": 570,
+    "ibutg_max_c": 25.0
+   },
+   {
+    "taxa_metabolica_w": 582,
+    "ibutg_max_c": 24.9
+   },
+   {
+    "taxa_metabolica_w": 594,
+    "ibutg_max_c": 24.8
+   },
+   {
+    "taxa_metabolica_w": 606,
+    "ibutg_max_c": 24.7
+   }
+  ]
+ },
+ "anexo_3_calor_quadro_2": {
+  "titulo": "Taxa metabólica por tipo de atividade",
+  "valores": [
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Em repouso",
+    "taxa_metabolica_w": 100
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com as mãos",
+    "taxa_metabolica_w": 126
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com as mãos",
+    "taxa_metabolica_w": 153
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com as mãos",
+    "taxa_metabolica_w": 171
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com um braço",
+    "taxa_metabolica_w": 162
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com um braço",
+    "taxa_metabolica_w": 198
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com um braço",
+    "taxa_metabolica_w": 234
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com dois braços",
+    "taxa_metabolica_w": 216
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com dois braços",
+    "taxa_metabolica_w": 252
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com dois braços",
+    "taxa_metabolica_w": 288
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com braços e pernas",
+    "taxa_metabolica_w": 324
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com braços e pernas",
+    "taxa_metabolica_w": 441
+   },
+   {
+    "categoria": "Sentado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com braços e pernas",
+    "taxa_metabolica_w": 603
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Em repouso",
+    "taxa_metabolica_w": 126
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com as mãos",
+    "taxa_metabolica_w": 153
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com as mãos",
+    "taxa_metabolica_w": 180
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com as mãos",
+    "taxa_metabolica_w": 198
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com um braço",
+    "taxa_metabolica_w": 189
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com um braço",
+    "taxa_metabolica_w": 225
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com um braço",
+    "taxa_metabolica_w": 261
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com dois braços",
+    "taxa_metabolica_w": 243
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com dois braços",
+    "taxa_metabolica_w": 279
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com dois braços",
+    "taxa_metabolica_w": 315
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho leve com o corpo",
+    "taxa_metabolica_w": 351
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado com o corpo",
+    "taxa_metabolica_w": 468
+   },
+   {
+    "categoria": "Em pé, agachado ou ajoelhado",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado com o corpo",
+    "taxa_metabolica_w": 630
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Andando no plano",
+    "grupo": "1. Sem carga",
+    "atividade": "2 km/h",
+    "taxa_metabolica_w": 198
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Andando no plano",
+    "grupo": "1. Sem carga",
+    "atividade": "3 km/h",
+    "taxa_metabolica_w": 252
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Andando no plano",
+    "grupo": "1. Sem carga",
+    "atividade": "4 km/h",
+    "taxa_metabolica_w": 297
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Andando no plano",
+    "grupo": "1. Sem carga",
+    "atividade": "5 km/h",
+    "taxa_metabolica_w": 360
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Andando no plano",
+    "grupo": "2. Com carga",
+    "atividade": "10 kg, 4 km/h",
+    "taxa_metabolica_w": 333
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Andando no plano",
+    "grupo": "2. Com carga",
+    "atividade": "30 kg, 4 km/h",
+    "taxa_metabolica_w": 450
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Correndo no plano",
+    "grupo": null,
+    "atividade": "9 km/h",
+    "taxa_metabolica_w": 787
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Correndo no plano",
+    "grupo": null,
+    "atividade": "12 km/h",
+    "taxa_metabolica_w": 873
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Correndo no plano",
+    "grupo": null,
+    "atividade": "15 km/h",
+    "taxa_metabolica_w": 990
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo rampa",
+    "grupo": "1. Sem carga",
+    "atividade": "com 5° de inclinação, 4 km/h",
+    "taxa_metabolica_w": 324
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo rampa",
+    "grupo": "1. Sem carga",
+    "atividade": "com 15° de inclinação, 3 km/h",
+    "taxa_metabolica_w": 378
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo rampa",
+    "grupo": "1. Sem carga",
+    "atividade": "com 25° de inclinação, 3 km/h",
+    "taxa_metabolica_w": 540
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo rampa",
+    "grupo": "2. Com carga de 20 kg",
+    "atividade": "com 15° de inclinação, 4 km/h",
+    "taxa_metabolica_w": 486
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo rampa",
+    "grupo": "2. Com carga de 20 kg",
+    "atividade": "com 25° de inclinação, 4 km/h",
+    "taxa_metabolica_w": 738
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Descendo rampa (5 km/h) sem carga",
+    "grupo": null,
+    "atividade": "com 5° de inclinação",
+    "taxa_metabolica_w": 243
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Descendo rampa (5 km/h) sem carga",
+    "grupo": null,
+    "atividade": "com 15° de inclinação",
+    "taxa_metabolica_w": 252
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Descendo rampa (5 km/h) sem carga",
+    "grupo": null,
+    "atividade": "com 25° de inclinação",
+    "taxa_metabolica_w": 324
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo escada (80 degraus por minuto - altura do degrau de 0,17 m)",
+    "grupo": null,
+    "atividade": "Sem carga",
+    "taxa_metabolica_w": 522
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Subindo escada (80 degraus por minuto - altura do degrau de 0,17 m)",
+    "grupo": null,
+    "atividade": "Com carga (20 kg)",
+    "taxa_metabolica_w": 648
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Descendo escada (80 degraus por minuto - altura do degrau de 0,17 m)",
+    "grupo": null,
+    "atividade": "Sem carga",
+    "taxa_metabolica_w": 279
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": "Descendo escada (80 degraus por minuto - altura do degrau de 0,17 m)",
+    "grupo": null,
+    "atividade": "Com carga (20 kg)",
+    "taxa_metabolica_w": 400
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado de braços (ex.: varrer, trabalho em almoxarifado)",
+    "taxa_metabolica_w": 320
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho moderado de levantar ou empurrar",
+    "taxa_metabolica_w": 349
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho de empurrar carrinhos de mão, no mesmo plano, com carga",
+    "taxa_metabolica_w": 391
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho de carregar pesos ou com movimentos vigorosos com os braços (ex.: trabalho com foice)",
+    "taxa_metabolica_w": 495
+   },
+   {
+    "categoria": "Em pé, em movimento",
+    "subcategoria": null,
+    "grupo": null,
+    "atividade": "Trabalho pesado de levantar, empurrar ou arrastar pesos (ex.: remoção com pá, abertura de valas)",
+    "taxa_metabolica_w": 524
+   }
+  ]
+ },
+ "anexo_11_quadro_1": {
+  "titulo": "Tabela de limites de tolerância - agentes químicos",
+  "unidades": {
+   "ppm": "partes de vapor ou gás por milhão de partes de ar contaminado",
+   "mg_m3": "miligramas por metro cúbico de ar"
+  },
+  "jornada": "até 48 horas/semana",
+  "valores": [
+   {
+    "agente": "Acetaldeído",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 140,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Acetato de cellosolve",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 420,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Acetato de éter monoetílico de etileno glicol (vide acetado de cellsolve)",
+    "vide": "acetado de cellsolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Acetato de etila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 310,
+    "mg_m3": 1090,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Acetato de 2-etóxi etila (vide acetato de cellosolve)",
+    "vide": "acetato de cellosolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Acetileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Acetona",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 1870,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Acetonitrila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 30,
+    "mg_m3": 55,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido acético",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 20,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido cianídrico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 9,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido clorídrico",
+    "vide": null,
+    "valor_teto": true,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 5.5,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido crômico (névoa)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": 0.04,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido etanóico (vide ácido acético)",
+    "vide": "ácido acético",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Ácido fluorídrico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 2.5,
+    "mg_m3": 1.5,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido fórmico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 7,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ácido metanóico (vide ácido fórmico)",
+    "vide": "ácido fórmico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Acrilato de metila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 27,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Acrilonitrila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 16,
+    "mg_m3": 35,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool isoamílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 280,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool n-butílico",
+    "vide": null,
+    "valor_teto": true,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 40,
+    "mg_m3": 115,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool isobutílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 40,
+    "mg_m3": 115,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool sec-butílico (2-butanol)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 115,
+    "mg_m3": 350,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool terc-butílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 235,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool etílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 1480,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool furfurílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 15.5,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool metil amílico (vide metil isobutil carbinol)",
+    "vide": "metil isobutil carbinol",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Álcool metílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 200,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool n-propílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 390,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Álcool isopropílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 310,
+    "mg_m3": 765,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Aldeído acético (vide acetaldeído)",
+    "vide": "acetaldeído",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Aldeído fórmico (vide formaldeído)",
+    "vide": "formaldeído",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Amônia",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 14,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Anidro sulfuroso (vide dióxido de enxofre)",
+    "vide": "dióxido de enxofre",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Anilina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 15,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Argônio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Arsina (arsenamina)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.04,
+    "mg_m3": 0.16,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Benzeno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "excluido",
+    "nota": "Excluído pela Portaria nº 03, de 10 de março de 1994"
+   },
+   {
+    "agente": "Brometo de etila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 695,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Brometo de metila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 12,
+    "mg_m3": 47,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Bromo",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.6,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Bromoetano (vide brometo de etila)",
+    "vide": "brometo de etila",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Bromofórmio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.4,
+    "mg_m3": 4,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Bromometano (vide brometo de metila)",
+    "vide": "brometo de metila",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,3 Butadieno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 1720,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-Butano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 470,
+    "mg_m3": 1090,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-Butano (vide álcoo n-butílico)",
+    "vide": "álcoo n-butílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "sec-Butanol (vide álcool sec- butílico)",
+    "vide": "álcool sec- butílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Butanona (vide metil etil cetona)",
+    "vide": "metil etil cetona",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1-Butanotiol (vide butil mercaptana)",
+    "vide": "butil mercaptana",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "n-Butilamina",
+    "vide": null,
+    "valor_teto": true,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 12,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Butil cellosolve",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 190,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-Butil mercaptana",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.4,
+    "mg_m3": 1.2,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "2-Butóxi etanol (vide butil cellosolve)",
+    "vide": "butil cellosolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Cellosolve (vide 2-etóxi etanol)",
+    "vide": "2-etóxi etanol",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Chumbo",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": 0.1,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cianeto de metila (vide acetonitrila)",
+    "vide": "acetonitrila",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Cianeto de vinila (vide acrilonitrila)",
+    "vide": "acrilonitrila",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Cianogênio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 16,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ciclohexano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 235,
+    "mg_m3": 820,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ciclohexanol",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 40,
+    "mg_m3": 160,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ciclohexilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 32,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de carbonila (vide fosgênio)",
+    "vide": "fosgênio",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de etila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 2030,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de fenila (vide cloro benzeno)",
+    "vide": "cloro benzeno",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de metila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 165,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de metileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 560,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de vinila",
+    "vide": null,
+    "valor_teto": true,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 398,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloreto de vinilideno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 31,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloro",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.8,
+    "mg_m3": 2.3,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Clorobenzeno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 59,
+    "mg_m3": 275,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Clorobromometano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 820,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloroetano (vide cloreto de etila)",
+    "vide": "cloreto de etila",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Cloroetílico (vide cloreto de vinila)",
+    "vide": "cloreto de vinila",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Clorodifluometano (freon 22)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 2730,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Clorofórmio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 94,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1-Cloro 1-nitropropano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 16,
+    "mg_m3": 78,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cloroprene",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 70,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Cumeno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 190,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Decaborano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.04,
+    "mg_m3": 0.25,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Demeton",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.008,
+    "mg_m3": 0.08,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Diamina (vide hidrazina)",
+    "vide": "hidrazina",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Diborano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.08,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1,2-Dibramoetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 16,
+    "mg_m3": 110,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "o-Diclorobenzeno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 235,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Diclorodifluormetano (freon 12)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 3860,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1,1 Dicloroetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 640,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1,2 Dicloroetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 156,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1,1 Dicloreotileno (vide cloreto de vinilideno)",
+    "vide": "cloreto de vinilideno",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,2 Dicloroetileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 155,
+    "mg_m3": 615,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Diclorometano (vide cloreto de metilino)",
+    "vide": "cloreto de metilino",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,1 Dicloro-1-nitroetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 47,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1,2 Dicloropropano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 59,
+    "mg_m3": 275,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Diclorotetrafluoretano (freon 114)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 5460,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dietil amina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 59,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dietil éter (vide éter etílico)",
+    "vide": "éter etílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "2,4 Diisocianato de tolueno (TDI)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.016,
+    "mg_m3": 0.11,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Diisopropilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 16,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dimetilacetamida",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 28,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dimetilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 14,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dimetiformamida",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 24,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "l,l Dimetil hidrazina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.4,
+    "mg_m3": 0.8,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dióxido de carbono",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 3900,
+    "mg_m3": 7020,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dióxido de cloro",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.25,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dióxido de enxofre",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 10,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dióxido de nitrogênio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 7,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Dissulfeto de carbono",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 16,
+    "mg_m3": 47,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Estibina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.4,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Estireno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 328,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Etanol (vide acetaldeído)",
+    "vide": "acetaldeído",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Etano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Etanol (vide etílico)",
+    "vide": "etílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Etanotiol (vide etil mercaptana)",
+    "vide": "etil mercaptana",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Éter decloroetílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 24,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Éter etílico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 310,
+    "mg_m3": 940,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Éter monobutílico do etileno glicol (vide butil cellosolve",
+    "vide": "butil cellosolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Éter monoetílico do etileno glicol (vide cellosolve)",
+    "vide": "cellosolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Éter monometílico do etileno glicol (vide metil cellosolve)",
+    "vide": "metil cellosolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Etilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 14,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Etilbenzeno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 340,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Etileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Etilenoimina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.4,
+    "mg_m3": 0.8,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Etil mercaptana",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.4,
+    "mg_m3": 0.8,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-Etil morfolina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 16,
+    "mg_m3": 74,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "2-Etoxietanol",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 290,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Fenol",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 15,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Fluortriclorometano (freon 11)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 4370,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Formaldeído (formol)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 1.6,
+    "mg_m3": 2.3,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Fosfina (fosfamina)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.23,
+    "mg_m3": 0.3,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Fosgênio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.3,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Freon 11 (vide flortriclorometano)",
+    "vide": "flortriclorometano",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Freon 12 (vide diclorodiflormetano)",
+    "vide": "diclorodiflormetano",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Freon 22 (vide clorodifluormetano)",
+    "vide": "clorodifluormetano",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Freon 113 (vide 1,1,2,tricloro-1,2,2- trifluoretano)",
+    "vide": "1,1,2,tricloro-1,2,2- trifluoretano",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Freon 114 (vide declrorotetrafloretano)",
+    "vide": "declrorotetrafloretano",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Gás amoníaco (vide amônia)",
+    "vide": "amônia",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Gás carbônico (vide dióxido de carbono",
+    "vide": "dióxido de carbono",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Gás cianídrico (vide ácido cianídrico)",
+    "vide": "ácido cianídrico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Gás clorídrico (vide ácido clorídrico)",
+    "vide": "ácido clorídrico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Gás sulfídrico",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 12,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Hélio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Hidrazina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.08,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Hidreto de antimônio (vide estibina)",
+    "vide": "estibina",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Hidrogênio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Isobutanol (vide álcool isobutílico)",
+    "vide": "álcool isobutílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Isopropilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 9.5,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Isopropil benzeno (vide cumeno)",
+    "vide": "cumeno",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Mercúrio (todas as formas exceto orgânicas)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": 0.04,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metacrilato de metila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 320,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metanol (vide álcool metílico)",
+    "vide": "álcool metílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Metilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 9.5,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metil cellosolve",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 60,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metil ciclohexanol",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 180,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metilclorofórmio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 275,
+    "mg_m3": 1480,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metil demeton",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": 0.4,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "metil etil cetona",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 155,
+    "mg_m3": 460,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metil isobutilcarbinol",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 78,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Metil mercaptana (metanotiol)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.4,
+    "mg_m3": 0.8,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "2-Metoxi etanol (vide metil cellosolve)",
+    "vide": "metil cellosolve",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Monometil hidrazina",
+    "vide": null,
+    "valor_teto": true,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.16,
+    "mg_m3": 0.27,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Monóxido de carbono",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 43,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Negro de fumo",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": 3.5,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": "Incluído pela Portaria DNSST nº 09, de 09 de outubro de 1992"
+   },
+   {
+    "agente": "Neônio",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Níquel carbonila (níquel tetracarbonila)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.04,
+    "mg_m3": 0.28,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Nitrato de n-propila",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 85,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Nitroetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 245,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Nitrometano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 195,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1 - Nitropropano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 70,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "2 - Nitropropano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 70,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Óxido de etileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 39,
+    "mg_m3": 70,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Óxido nítrico (NO)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 23,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Óxido nitroso (N2O)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Ozona",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.16,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Pentaborano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.004,
+    "mg_m3": 0.008,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-Pentano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 470,
+    "mg_m3": 1400,
+    "grau_insalubridade": "mínimo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Percloroetíleno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 525,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Piridina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 12,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-propano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "n-Propanol (vide álcool n-propílico)",
+    "vide": "álcool n-propílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "iso-Propanol (vide álcool isopropílico)",
+    "vide": "álcool isopropílico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Propanona (vide acetona)",
+    "vide": "acetona",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Propileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": true,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Propileno imina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 1.6,
+    "mg_m3": 4,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Sulfato de dimetila",
+    "vide": null,
+    "valor_teto": true,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 0.08,
+    "mg_m3": 0.4,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Sulfeto de hidrogênio (vide gás sulfídrico)",
+    "vide": "gás sulfídrico",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Systox (vide demeton)",
+    "vide": "demeton",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,1,2,2,Tetrabromoetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 0.8,
+    "mg_m3": 11,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Tetracloreto de carbono",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 50,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Tetracloroetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 4,
+    "mg_m3": 27,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Tetracloroetileno (vide percloroetileno)",
+    "vide": "percloroetileno",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Tetrahidrofurano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 156,
+    "mg_m3": 460,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Tolueno (toluol)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 290,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Tolueno-2,4-diisocianato (TDI) (vide 2,4 diisocianato de tolueno)",
+    "vide": "2,4 diisocianato de tolueno",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Tribromometano (vide bromofórmio)",
+    "vide": "bromofórmio",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Tricloreto de vinila (vide 1,1,2 tricloroetano)",
+    "vide": "1,1,2 tricloroetano",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,1,1 Tricloroetano (vide metil clorofórmio)",
+    "vide": "metil clorofórmio",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,1,2 Tricloroetano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 8,
+    "mg_m3": 35,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Tricloroetileno",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 420,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Triclorometano (vide clorofórmio)",
+    "vide": "clorofórmio",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "1,2,3 Tricloropropano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 40,
+    "mg_m3": 235,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "1,1,2 Tricloro-1,2,2 trifluoretano (freon 113)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 5930,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Trietilamina",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 20,
+    "mg_m3": 78,
+    "grau_insalubridade": "máximo",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Trifluormonobramometano",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": 780,
+    "mg_m3": 4760,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   },
+   {
+    "agente": "Vinibenzeno (vide estireno)",
+    "vide": "estireno",
+    "valor_teto": false,
+    "absorcao_pele": false,
+    "asfixiante_simples": false,
+    "ppm": null,
+    "mg_m3": null,
+    "grau_insalubridade": null,
+    "status": "remissivo",
+    "nota": null
+   },
+   {
+    "agente": "Xileno (xilol)",
+    "vide": null,
+    "valor_teto": false,
+    "absorcao_pele": true,
+    "asfixiante_simples": false,
+    "ppm": 78,
+    "mg_m3": 340,
+    "grau_insalubridade": "médio",
+    "status": "vigente",
+    "nota": null
+   }
+  ]
+ },
+ "anexo_11_quadro_2": {
+  "titulo": "Fator de desvio (valor máximo = L.T. x F.D.)",
+  "valores": [
+   {
+    "lt_de": 0,
+    "lt_ate": 1,
+    "fator_desvio": 3
+   },
+   {
+    "lt_de": 1,
+    "lt_ate": 10,
+    "fator_desvio": 2
+   },
+   {
+    "lt_de": 10,
+    "lt_ate": 100,
+    "fator_desvio": 1.5
+   },
+   {
+    "lt_de": 100,
+    "lt_ate": 1000,
+    "fator_desvio": 1.25
+   },
+   {
+    "lt_de": 1000,
+    "lt_ate": null,
+    "fator_desvio": 1.1
+   }
+  ]
+ }
+}
