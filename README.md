@@ -37,7 +37,7 @@ Texto completo das Normas Regulamentadoras de Segurança e Saúde no Trabalho do
 | NR-27 | Registro Profissional do Técnico de Segurança do Trabalho | | Revogada | |
 | [NR-28](NR-28/NR-28.md) | FISCALIZAÇÃO E PENALIDADES | 30/09/26 | Disponível | [PDF](NR-28/pdf/nr-28-atualizada-2026.pdf) |
 | [NR-29](NR-29/NR-29.md) | SEGURANÇA E SAÚDE NO TRABALHO PORTUÁRIO | 22/12/22 | Disponível | [PDF](NR-29/pdf/nr-29-atualizada-2023.pdf) |
-| NR-30 | Segurança e Saúde no Trabalho Aquaviário | | Pendente | |
+| [NR-30](NR-30/NR-30.md) | SEGURANÇA E SAÚDE NO TRABALHO AQUAVIÁRIO | 22/12/22 | Disponível | [PDF](NR-30/pdf/nr-30-atualizada-2023_1.pdf) |
 | [NR-31](NR-31/NR-31.md) | SEGURANÇA E SAÚDE NO TRABALHO NA AGRICULTURA, PECUÁRIA, SILVICULTURA, EXPLORAÇÃO FLORESTAL E AQUICULTURA | 22/03/24 | Disponível | [PDF](NR-31/pdf/nr-31-atualizada-2024-2.pdf) |
 | [NR-32](NR-32/NR-32.md) | SEGURANÇA E SAÚDE NO TRABALHO EM SERVIÇOS DE SAÚDE | 22/12/22 | Disponível | [PDF](NR-32/pdf/nr-32-atualizada-2023-1.pdf) |
 | [NR-33](NR-33/NR-33.md) | SEGURANÇA E SAÚDE NOS TRABALHOS EM ESPAÇOS CONFINADOS | 24/06/22 | Disponível | [PDF](NR-33/pdf/nr-33-atualizada-2022-_retificada.pdf) |
@@ -60,7 +60,6 @@ scripts/
 ## Atenção
 
 - **NR-10:** o PDF incluído traz o texto dado pela Portaria MTE nº 737/2026, com vigência a partir de 01/06/2027. Até essa data, vale a redação anterior.
-- **NR-30:** ainda não incluída.
 - **NR-33:** o PDF é a versão retificada da Portaria MTP nº 1.690/2022, em vigor desde 03/10/2022.
 - **Tabelas e quadros:** páginas com tabelas foram mantidas como texto pré-formatado, preservando as colunas do PDF. Quadros complexos e figuras devem ser conferidos no PDF original.
 
