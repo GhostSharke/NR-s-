@@ -18,7 +18,7 @@ Texto completo das Normas Regulamentadoras de Segurança e Saúde no Trabalho do
 | [NR-08](NR-08/NR-08.md) | EDIFICAÇÕES | 05/08/22 | Disponível | [PDF](NR-08/pdf/nr-08-atualizada-2022.pdf) |
 | [NR-09](NR-09/NR-09.md) | AVALIAÇÃO E CONTROLE DAS EXPOSIÇÕES OCUPACIONAIS A AGENTES FÍSICOS, QUÍMICOS E BIOLÓGICOS | 30/01/26 | Disponível | [PDF](NR-09/pdf/nr-09-atualizada-2026.pdf) |
 | [NR-10](NR-10/NR-10.md) | SEGURANÇA EM INSTALAÇÕES ELÉTRICAS E SERVIÇOS EM ELETRICIDADE | 01/06/26 | Disponível (texto novo, vigência em 01/06/2027) | [PDF](NR-10/pdf/nr-10-atualizada-2026-1.pdf) |
-| [NR-11](NR-11/NR-11-anexo-01.md) | TRANSPORTE, MOVIMENTAÇÃO, ARMAZENAGEM E MANUSEIO DE MATERIAIS | 02/05/16 | Só Anexo I (texto principal pendente) | [PDF](NR-11/pdf/nr-11-anexo-01.pdf) |
+| [NR-11](NR-11/NR-11.md) | TRANSPORTE, MOVIMENTAÇÃO, ARMAZENAGEM E MANUSEIO DE MATERIAIS | 02/05/16 | Disponível ([Anexo I](NR-11/NR-11-anexo-01.md) também separado) | [PDF](NR-11/pdf/nr-11-atualizada-2016.pdf) |
 | [NR-12](NR-12/NR-12.md) | SEGURANÇA NO TRABALHO EM MÁQUINAS E EQUIPAMENTOS | 22/03/24 | Disponível | [PDF](NR-12/pdf/nr-12-atualizada-2025.pdf) |
 | [NR-13](NR-13/NR-13.md) | CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO | 22/12/22 | Disponível | [PDF](NR-13/pdf/nr-13-atualizada-2023-b.pdf) |
 | [NR-14](NR-14/NR-14.md) | FORNOS | 05/08/22 | Disponível | [PDF](NR-14/pdf/nr-14-atualizada-2022.pdf) |
@@ -60,7 +60,6 @@ scripts/
 ## Atenção
 
 - **NR-10:** o PDF incluído traz o texto dado pela Portaria MTE nº 737/2026, com vigência a partir de 01/06/2027. Até essa data, vale a redação anterior.
-- **NR-11:** só o Anexo I (rochas ornamentais) foi incluído. O texto principal ainda precisa ser adicionado.
 - **NR-30:** ainda não incluída.
 - **NR-33:** o PDF é a versão retificada da Portaria MTP nº 1.690/2022, em vigor desde 03/10/2022.
 - **Tabelas e quadros:** páginas com tabelas foram mantidas como texto pré-formatado, preservando as colunas do PDF. Quadros complexos e figuras devem ser conferidos no PDF original.
